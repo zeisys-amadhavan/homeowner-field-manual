@@ -1,15 +1,3 @@
-# The Homeowner's Field Manual — Section TOC
-
-**Conventions:**
-- Section opens with a single intro page on the right (odd page number)
-- Content runs as pairs: Form on left (even), Diagram on right (odd)
-- Logs without natural diagram pairs occupy two form pages
-- Page ID = section letter + sequential number, no gaps, no suffixes
-
----
-
-## Section E — Electrical (17 pages: 1 intro + 8 spreads)
-
 | Page | Side | Title | Type | Purpose | Sections / Callouts | Key Content & Annotations |
 |---|---|---|---|---|---|---|
 | **E1** | Right | ELECTRICAL — Section Intro | Overview | Orients the reader to what the section contains, asks them to do, and where the safety boundary sits. | Framing paragraph · Section contents table · Safety frame | Top: section title bar. Middle: 3–4 line framing, then 16-row contents table with one-line descriptions. Bottom: red-triangle safety frame — "Everything in this section is observation and documentation. Repair work is licensed-electrician territory." |
@@ -43,24 +31,3 @@
 | **Purpose** | One sentence: what this page does for the homeowner. Should pass the Aha Test or Spec Sheet Test from the strategy doc. |
 | **Sections / Callouts** | For Forms: the a/b/c/d/e section headers. For Diagrams: the a/b/c/d/e callout labels. Keep parallel to facing page where possible. |
 | **Key Content & Annotations** | Specific fields, sub-fields, warning slots, footers, special instructions, and any annotations on the diagram. This is the page's brief. |
-
----
-
-## Existing-file mapping (renumber + retitle)
-
-| Current file | Becomes | Updates needed |
-|---|---|---|
-| E04 (Electrical Panel Data) | **E4** ELECTRICAL PANEL — Record | New page ID, new subtitle |
-| E05 (Electrical Panel Diagram) | **E5** ELECTRICAL PANEL — Guide | New page ID, new subtitle |
-| E06 (Electrician Information) | **E14** ELECTRICIAN — Record | New page ID, new subtitle; change section c header from LICENSE to CREDENTIALS |
-| E07 (Electrician Visit Guide) | **E15** ELECTRICIAN VISIT — Guide | New page ID, new subtitle; remove the duplicate a–e key at the bottom (leftover from the panel pattern) |
-
----
-
-## Build order
-
-1. **E1** — Section Intro (locks the section-opener template for every other section)
-2. **E2 / E3** — Electrical Service spread (validates the convention on a fresh build)
-3. **E6 / E7** — Breaker Map spread (stress-tests activity-based Guide pages)
-4. Renumber and retitle the four existing pages
-5. Fill in remaining pages in numeric order
