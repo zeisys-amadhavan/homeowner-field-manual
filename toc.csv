@@ -1,289 +1,289 @@
-Part,Part Name,Code,Tier,Item,Spread Goal,Left Page: Hero Diagrams,Right Page: Fields to Capture,Base View
-FRONT,The Master House,FM01,Basic,The House (exterior master view),Meet the one house this whole book is about — outside,"Full exterior illustration: house, garage, shed, garden, drive (the canonical view every Curb and exterior zoom comes from)",Reader sketches or photographs their own home's equivalent view; labels their versions of each element,
-FRONT,The Master House,FM02,Basic,The Cutaway (interior master view),Meet the same house — opened up,"Full cutaway illustration: framing, floors, rooms, garage (the canonical view every interior zoom and system overlay comes from)",Reader maps their own floor plan onto the cutaway concept; notes where their rooms differ,
-FRONT,The Master House,FM03,Basic,Homeowner's toolkit,Own the 20 tools that solve 80 percent of problems,"Tool wall illustration, tiered Beginner / Advanced / Pro",Tools owned checklist; storage location; loaned-out log,Document Desk
-A,Admin,A00,Basic,System overlay: The Paper House,See every document pinned to the part of the home it governs,"Exterior master view, ghosted; document callouts pinned to what they cover (deed→lot, policy→roof, mortgage→whole house)","Checklist: which documents exist, which are missing",Overlay
-A,Admin,A01,Basic,Budget & affordability,Understand the true monthly cost of this home and record yours,Pie chart of total monthly cost (PITI + utilities + upkeep); the 1-2% annual maintenance rule bar,Purchase price; down payment; monthly PITI; utilities estimate; maintenance reserve; total monthly cost,Document Desk
-A,Admin,A02,Basic,Mortgage & financing,Understand how a mortgage amortizes and record your loan,Amortization curve (interest vs principal over the term); anatomy of one payment,Lender/servicer; loan #; type; rate; term; monthly payment; escrow Y/N; payoff date,Document Desk
-A,Admin,A03,Basic,Home inspection,Understand what an inspection covers and log your report's findings,House cutaway tagged with the major inspection zones,Inspector; date; report location; major findings; fixed items; deferred items,Document Desk
-A,Admin,A04,Basic,Appraisal,Understand how home value is determined and record yours,"Comps map; value-drivers diagram (location, size, condition)",Appraised value; date; appraiser; $/sqft; comps used,Document Desk
-A,Admin,A05,Basic,Title & deed,Understand what proves ownership and where yours lives,Chain-of-title timeline; annotated sample deed,Deed type; recording date; county registry; title policy #; storage location,Document Desk
-A,Admin,A06,Basic,Closing & escrow,Understand the closing process and archive your documents,Closing flowchart (offer→escrow→keys); settlement statement anatomy,Closing date; escrow company; cash to close; document storage location,Document Desk
-A,Admin,A07,Basic,Property survey & boundaries,Know exactly what land is yours,Annotated plat/survey sample; corner-pin locator sketch,Survey date; surveyor; lot size; pin locations; easements; encroachments,Document Desk
-A,Admin,A08,Basic,Tracking home value & equity,Watch your largest asset grow,Equity stack chart (value vs loan balance over years),Estimated value by year; loan balance; equity; improvements added,Document Desk
-A,Admin,A09,Basic,Preparing to sell,Know what selling well requires,Sale-prep timeline (90/60/30 days); curb-appeal checklist illustration,Target date; agent; repair list; staging notes; list price,Document Desk
-A,Admin,A10,Advanced,Renovation planning,Plan projects like a contractor,Project lifecycle flow (dream→budget→permit→build→inspect); cost-vs-value chart,Project; budget; contractor; permit #; start/end; final cost,Document Desk
-A,Admin,A11,Advanced,Permits for improvements,Know when the city must say yes,Permit decision tree; inspection sequence diagram,Permit #; scope; issued date; inspections passed; closed date,Document Desk
-A,Admin,A12,Advanced,Transferring the home,Understand the ways a home changes hands,Transfer paths diagram (sale / gift / inheritance / trust),Intended path; attorney; documents in place; beneficiaries,Document Desk
-A,Admin,A13,Professional,Renting out space,The home as income,"Rental readiness diagram (legal, safety, insurance)",Space rented; permits; insurance rider; income records,Document Desk
-B,Bookkeeping,B00,Basic,System overlay: The Recorded House,"See every account, policy, and record attached to the home","Exterior master view, ghosted; record callouts (utility accounts→meters, warranties→appliances, shutoff map→valves)",Checklist: records complete vs missing per callout,Overlay
-B,Bookkeeping,B01,Basic,Records toolkit,Equip the paper side of ownership,"Records station illustration (fireproof box, scanner, shredder, labels)",Fireproof box location; scanning app; shredder; backup method,Document Desk
-B,Bookkeeping,B02,Basic,Home records & filing system,Every paper findable in a minute,Filing tree of home record categories,System used; location; categories; backup method,Document Desk
-B,Bookkeeping,B03,Basic,Home inventory,Prove what you own before you lose it,Room-by-room inventory walk diagram,Rooms completed; video date; cloud storage; appraised items,Document Desk
-B,Bookkeeping,B04,Basic,Homeowner's insurance,Understand what your policy covers and record it,Coverage umbrella diagram (dwelling/property/liability/ALE); claim process flow,Carrier; policy #; premium; deductible; dwelling coverage; renewal date; agent,Document Desk
-B,Bookkeeping,B05,Basic,Property taxes,Understand how your tax bill is calculated,Tax math diagram (assessed value × rate); appeal process flow,Parcel #; assessed value; annual tax; due dates; exemptions,Document Desk
-B,Bookkeeping,B06,Advanced,Flood insurance,Know your flood risk and your coverage,Flood-zone map sketch; covered vs not-covered split,Flood zone; policy #; premium; coverage amount; elevation certificate Y/N,Document Desk
-B,Bookkeeping,B07,Advanced,Hazard / umbrella insurance,Understand liability beyond the basics,Liability layers diagram (home policy → umbrella),Policy #; limit; premium; carrier; renewal date,Document Desk
-B,Bookkeeping,B08,Advanced,HOA / covenants & restrictions,Know the rules that bind your property,Governance diagram (board→rules→you); what-needs-approval chart,HOA name; dues; contact; key restrictions; approvals required for,Document Desk
-B,Bookkeeping,B09,Advanced,Home warranty plan,Know what the plan really covers,Home warranty vs insurance Venn diagram,Provider; cost; covered systems; claim process; renewal,Document Desk
-B,Bookkeeping,B10,Advanced,Estate & ownership planning,Make ownership outlive you,Ownership transfer diagram (will / trust / joint title),Will location; executor; how titled; beneficiaries; attorney,Document Desk
-C,Curb,C00,Basic,"System overlay: The Property, Mapped",See everything under the open sky as one system,"Exterior master view in full color; grounds elements highlighted and labeled (lawn, trees, beds, drive, fence, pool, coop)",Reader's lot sketch: position their own outdoor elements,Overlay
-C,Curb,C01,Basic,Yard & garden toolkit,The hand and power tools of the land,Tiered garden tool wall,Tools owned; fuel and charging; sharpened dates; storage,Exterior
-C,Curb,C02,Basic,Property boundaries & markers,Know your exact lines,Lot sketch with pin locations,Pin locations/landmarks; fence offsets; disputes,Exterior
-C,Curb,C03,Basic,Permits & zoning,Know your zoning envelope,Lot diagram showing setbacks and height limits,Zoning class; setbacks; height limit; permit office contact,Document Desk
-C,Curb,C04,Basic,Driveway,Understand your surface and its enemies,Driveway cross-section (base/surface layers); crack types chart,Material; area; last sealed; drainage notes,Exterior
-C,Curb,C05,Basic,Walkways & paths,Safe passage in all seasons,Path construction cross-section,Materials; trip hazards; ice strategy,Exterior
-C,Curb,C06,Basic,Steps & ramps,Stairs that meet code,Stair geometry diagram (rise/run/handrail heights),Locations; rail condition; code gaps,Exterior
-C,Curb,C07,Basic,Fencing,Know your fence and whose it is,Post-setting detail; property-line offset diagram,Material; length; shared sides; last stained,Exterior
-C,Curb,C08,Basic,Mailbox,Meet code at the curb,USPS height and setback spec diagram,Type; lock Y/N; installed date; post type,Exterior
-C,Curb,C09,Basic,Package & courier deliveries,Receive safely in the delivery age,"Delivery zone diagram (porch box, locker, camera view)",Drop spot; delivery instructions; parcel box; theft plan,Exterior
-C,Curb,C10,Basic,House numbers & signage,Be findable in an emergency,Sightline diagram from the street,Size; lighted Y/N; location,Exterior
-C,Curb,C11,Basic,Lawn,Understand turf as a system,Grass anatomy (root depth vs mowing height); seasonal care wheel,Area; grass type; mow height; fertilize and aerate dates,Exterior
-C,Curb,C12,Basic,Mowing & equipment,Run your fleet safely,"Mower anatomy (blade, deck, filters)",Equipment list; fuel type; blade sharpened; winterized date,Exterior
-C,Curb,C13,Basic,Trees & shade,"Your largest plants, your largest risks",Tree hazard zones diagram (over roof and lines); root zone illustration,"Inventory (species, height, distance to house); arborist; last pruned",Exterior
-C,Curb,C14,Basic,Hedges & shrubs,The living walls,Pruning shapes diagram (formal hedge vs natural form),Inventory; trim schedule; height limits,Exterior
-C,Curb,C15,Basic,Flower beds & ornamentals,Bloom all season by design,Succession bloom timeline; bed layout,Beds; key plants; divide/deadhead schedule,Exterior
-C,Curb,C16,Advanced,Parking,Map your parking assets,Site sketch of spaces,Spaces; surfaces; permits needed,Exterior
-C,Curb,C17,Advanced,Gates,Gates that swing true,Gate hinge and latch anatomy,Locations; hardware; opener Y/N,Exterior
-C,Curb,C18,Advanced,Retaining walls,Understand what holds your hill,"Wall cross-section (drainage, weep holes, batter)",Locations; height; material; bulge or lean notes,Exterior
-C,Curb,C19,Advanced,Snow & ice management,Winter's standing appointment,Ice dam formation diagram; de-icing strategy map,Equipment; de-icer type; contractor; roof rake Y/N,Exterior
-C,Curb,C20,Advanced,Sprinkler irrigation,See your zones underground,Yard zone map; sprinkler head types chart,Controller model; zones and coverage; winterize/startup dates,Exterior
-C,Curb,C21,Advanced,Vegetable garden,Map your growing operation,Bed layout plan; sun map; hardiness zone map,Zone; beds; sun hours; soil test date; crops,Exterior
-C,Curb,C22,Advanced,Herb garden,Perennial vs annual herbs at a glance,Herb layout/spiral plan,Herbs grown; perennials list; harvest notes,Exterior
-C,Curb,C23,Advanced,Compost,Waste becomes soil,"Compost layers diagram (greens, browns, air, water)",System type; ratio notes; turned dates,Exterior
-C,Curb,C24,Advanced,Wildlife & critter management,Coexist on your terms,"Entry and attractant map (deer, raccoons, moles)",Species seen; deterrents; exclusion work; local trapping rules,Exterior
-C,Curb,C25,Advanced,Grill & smoker,Master fire and food safely,"Grill anatomy (burners, grates, grease path)",Type; fuel; grates cleaned; burner check,Exterior
-C,Curb,C26,Advanced,Fire pit,"Fire, contained",Clearance diagram (distances to structures),Type; fuel; local burn rules; screen Y/N,Exterior
-C,Curb,C27,Advanced,Outdoor furniture & cushions,Furnish the open air,Material weathering chart,Inventory; covers; winter storage plan,Exterior
-C,Curb,C28,Advanced,Playground & play structures,Safe play by design,Fall zone and surfacing diagram,Equipment; surfacing depth; hardware checked; age fit,Exterior
-C,Curb,C29,Advanced,Holiday & decorative lighting,"Festive, safely",Outdoor circuit load diagram; safe attachment methods,Storage location; circuits used; timers; outdoor-rated check,Exterior
-C,Curb,C30,Professional,Raised beds,Understand bed-building,Raised bed cross-section (soil layers),Count; sizes; soil mix; built date,Exterior
-C,Curb,C31,Professional,Greenhouse,A climate you control,Greenhouse airflow and venting diagram,Size; glazing; heat source; vents,Exterior
-C,Curb,C32,Professional,Orchard & fruit trees,Know each tree's needs,Pruning cuts diagram; tree spacing plan,"Trees (variety, planted, rootstock); harvest months",Exterior
-C,Curb,C33,Professional,Berry bushes & vines,"Small fruits, big returns",Trellis systems diagram,Varieties; locations; pruned date,Exterior
-C,Curb,C34,Professional,Drip irrigation,"Water at the root, drop by drop",Drip schematic (filter→regulator→emitters),Zones; emitter types; flush date,Exterior
-C,Curb,C35,Professional,Robot mower,The lawn that cuts itself,Boundary wire or GPS zones map,Model; boundary type; schedule; blades changed,Exterior
-C,Curb,C36,Professional,Pond,A balanced ecosystem in a basin,"Pond cross-section (liner, shelves, biology)",Volume; liner type; fish and plants; seasonal care,Exterior
-C,Curb,C37,Professional,Pond pump & filtration,Keep water moving and clear,Pump-filter-UV flow loop diagram,Pump model; GPH; filter type; cleaned date,Exterior
-C,Curb,C38,Professional,Fountain & water features,"Moving water, simply",Recirculation diagram,Feature; pump model; winter procedure,Exterior
-C,Curb,C39,Professional,Pool,Understand the vessel,"Pool anatomy cutaway (skimmer, returns, main drain)",Volume; surface type; opened/closed dates; rules posted,Exterior
-C,Curb,C40,Professional,Pool pump & filtration,The pool's heart and kidneys,Circulation loop diagram; filter types chart,Pump model/HP; filter type; pressure baseline; backwash date,Exterior
-C,Curb,C41,Professional,Pool heater,"Warm water, on budget",Heater types comparison (gas / heat pump / solar),Type; model; target temp; serviced date,Exterior
-C,Curb,C42,Professional,Pool chemistry,Read water like a pro,"Chemistry wheel (pH, chlorine, alkalinity ranges)","Test log: date, pH, chlorine, alkalinity, actions",Exterior
-C,Curb,C43,Professional,Pool cover & safety,Layers of protection,Safety layers diagram (fence→alarm→cover),Cover type; barrier height; alarms; latch checks,Exterior
-C,Curb,C44,Professional,Hot tub / spa,"Small water, fast chemistry",Spa plumbing loop diagram,Model; volume; drain/refill date; chemistry log,Exterior
-C,Curb,C45,Professional,Outdoor kitchen,Cook where you live,"Utility runs diagram (gas, water, power to the island)",Appliances; gas source; winterize steps,Exterior
-C,Curb,C46,Professional,Outdoor shower,Rinse where you swim,Outdoor shower plumbing and drain diagram,Location; hot water Y/N; winterize steps,Exterior
-C,Curb,C47,Professional,Sport court & hoop,Play at home,Court dimensions and surfacing diagram,Type; surface; hoop height; maintenance,Exterior
-C,Curb,C48,Professional,Chicken coop & backyard poultry,Eggs from the backyard,"Coop anatomy (roost, nest boxes, run, predator-proofing)",Flock; coop specs; local rules; predator audit,Exterior
-C,Curb,C49,Professional,Beehives,"Keep bees, legally and well","Hive anatomy (boxes, frames)",Hives; registration; inspection log; harvest dates,Exterior
-C,Curb,C50,Professional,Outdoor & landscape speakers,Sound in the garden,Speaker zones and buried cable diagram,Zones; amplifier location; volume rules,Exterior
-D,Dwelling,D00,Basic,"System overlay: The Structure, Revealed",See the bones and envelope as one continuous shell,"Cutaway master view; frame, foundation, roof, and envelope layers highlighted; load path arrows","Mark your home's structure type, stories, attic and basement access",Overlay
-D,Dwelling,D01,Basic,Repair & carpentry toolkit,Build and fix the dwelling,Tiered carpentry wall (level to saws); ladder safety angles,Tools owned; ladder sizes; PPE; storage,Cutaway
-D,Dwelling,D02,Basic,Foundation,Read your foundation's health,Foundation types cutaway (slab/crawl/basement); crack severity chart,Type; crack map; moisture notes; last inspected,Cutaway
-D,Dwelling,D03,Basic,Basement & crawlspace,Know the space beneath,Basement moisture sources diagram; crawlspace anatomy,Type; moisture readings; access points; stored items,Cutaway
-D,Dwelling,D04,Basic,Framing & load paths,See how the house stands up,Load path diagram (roof→walls→foundation); bearing vs partition walls,Framing type; known bearing walls; sag or bounce notes,Cutaway
-D,Dwelling,D05,Basic,Siding & exterior walls,The weather skin,Wall cross-section (siding→barrier→sheathing),Material; last washed/painted; damage map,Exterior
-D,Dwelling,D06,Basic,Exterior paint & caulking,The thin line against rot,"Failure points diagram (joints, sills, trim)",Colors and brands; last painted; caulk checked,Exterior
-D,Dwelling,D07,Basic,Windows,Understand a window's anatomy,"Window anatomy (sash, glazing, weep holes, low-E)",Count; type and material; age; failed seals list,Exterior
-D,Dwelling,D08,Basic,Exterior doors,"Tight, true, and secure","Door anatomy (jamb, sweep, threshold, strike)",Door list; weatherstrip condition; adjusted date,Exterior
-D,Dwelling,D09,Basic,Garage door & opener,Your largest moving object,"Spring, cable, and track anatomy; safety sensor alignment",Opener model; spring type; balance test date; sensor test,Exterior
-D,Dwelling,D10,Basic,Insulation,Where heat escapes,Whole-house heat loss diagram (% by surface); R-value map by area,Attic R-value; wall type; floor/crawl; upgrades,Cutaway
-D,Dwelling,D11,Basic,Air sealing & vapor barriers,Stop the leaks you can't see,Common air leak points diagram,Known drafts; sealed dates; blower test result,Cutaway
-D,Dwelling,D12,Basic,Attic,Your house's diagnostic space,Attic inspection map (what to check where),Access location; insulation depth; leak stains; pest signs,Cutaway
-D,Dwelling,D13,Basic,Attic ventilation,The breathing roof,Soffit-to-ridge airflow diagram,Vent types; net free area estimate; baffles Y/N,Cutaway
-D,Dwelling,D14,Basic,Roof covering (shingles/metal/tile),Know your roof's age and enemies,"Roof layers cutaway (deck, underlayment, covering)",Material; installed year; estimated life left; leak history,Exterior
-D,Dwelling,D15,Basic,Roof flashing & valleys,Where roofs actually leak,"Flashing details (chimney, valley, vent boot)",Flashing points map; last inspected; resealed,Exterior
-D,Dwelling,D16,Basic,Soffits & fascia,The roof's edge explained,"Eave cross-section (soffit, fascia, gutter relationship)",Material; vent type; rot spots,Exterior
-D,Dwelling,D17,Basic,Pest control & exclusion,Keep the wild outside,House entry points map,Pests seen; entry points sealed; service contract,Cutaway
-D,Dwelling,D18,Advanced,Storm doors & window screens,The seasonal second layer,Storm door anatomy; screen repair steps,Inventory; seasonal swap dates; repairs,Exterior
-D,Dwelling,D19,Advanced,Deck,The room outside,Ledger attachment detail (the critical joint); joist anatomy,Size; material; ledger checked; stained date,Exterior
-D,Dwelling,D20,Advanced,Patio,"Stone underfoot, done right",Patio base cross-section,Material; area; releveled; joint sand date,Exterior
-D,Dwelling,D21,Advanced,Garage interior & organization,The hardest-working room,"Garage zones diagram (wall systems, overhead racks)",Zones; wall system; overhead storage; hazardous items stored right,Cutaway
-D,Dwelling,D22,Professional,Pergola & shade structures,Shade by design,Post and beam connection details,Structure; material; hardware check; stained,Exterior
-D,Dwelling,D23,Professional,Shed,The fifth wall of storage,Shed foundation options diagram,Size; foundation; contents zones; roof condition,Exterior
-D,Dwelling,D24,Professional,Workshop,A safe place to make,"Workshop layout zones (dust, power, bench)",Power available; dust management; tool inventory location,Exterior
-D,Dwelling,D25,Professional,Detached garage,The second building,"Garage systems mini-map (power, door, roof)",Size; power Y/N; door serviced; roof age,Exterior
-D,Dwelling,D26,Professional,Well house / pump house,Protect the water source,Well house freeze-protection diagram,Heat source; insulation; contents; winter checks,Exterior
-D,Dwelling,D27,Professional,Outdoor storage,Everything in its place outside,Property storage map,Locations; contents; weatherproofing notes,Exterior
-D,Dwelling,D28,Professional,Elevator & stair lift,Vertical mobility at home,Stair lift track and elevator shaft diagrams,Type; capacity; inspected; service contract,Cutaway
-D,Dwelling,D29,Professional,ADU / accessory dwelling,A second home on the lot,"ADU types diagram (detached, garage conversion, basement)",Type; permits; utilities metered; occupancy,Exterior
-D,Dwelling,D30,Professional,Daylighting & skylights,Free light from above,Skylight flashing cross-section,Locations; leak history; shades,Exterior
-E,Energy,E00,Basic,System overlay: The Powered House,"Trace every wire, pipe of gas, and duct of conditioned air","Cutaway master view, ghosted; electrical traced panel-to-outlet and gas meter-to-appliance, each in its color","Mark your panel, meter, and equipment locations on the trace",Overlay
-E,Energy,E01,Basic,Electrical toolkit,Work near power safely,"Tester-first tool board (voltage tester, multimeter, fish tape)",Testers owned; PPE; breaker lockout practice,Cutaway
-E,Energy,E02,Basic,Electrical service entrance & meter,Where power arrives,"Service entrance diagram (drop, meter, mast)",Amps (100/200); overhead or underground; meter #,Cutaway
-E,Energy,E03,Basic,Main panel & breakers,Command center of power,Panel anatomy with labeled breaker map,Panel brand; amps; breaker map filled; AFCI/GFCI present,Cutaway
-E,Energy,E04,Basic,Circuits & wiring,What's on each circuit,Circuit tracing diagram; wire gauge chart,Circuit map (room→breaker); wiring type; year,Cutaway
-E,Energy,E05,Basic,Outlets & GFCI/AFCI,The safety outlets explained,GFCI cutaway (test/reset); where-code-requires diagram,GFCI locations; test log; worn outlets list,Cutaway
-E,Energy,E06,Basic,Switches,Every switch decoded,Three-way switch wiring diagram,Mystery switches solved; dimmer locations,Cutaway
-E,Energy,E07,Basic,Grounding system,The path that saves lives,"Grounding diagram (rod, bonding, panel)",Rod location; bonded systems; inspected,Cutaway
-E,Energy,E08,Basic,Interior lighting fixtures,Light every room right,"Lighting layers diagram (ambient, task, accent)",Fixture inventory; bulb types and sizes per room,Cutaway
-E,Energy,E09,Basic,Lighting controls & dimmers,Control the mood,LED dimmer compatibility chart,Dimmer locations; bulb pairing notes,Cutaway
-E,Energy,E10,Basic,Exterior lighting — entry,Welcome and security at the door,Entry lighting placement diagram,Fixtures; bulbs; controls (timer/photocell),Exterior
-E,Energy,E11,Basic,Gas meter & main shutoff,Find and operate the gas main,Meter anatomy with shutoff valve positions (quarter-turn on/off),Meter location; shutoff tool location; smell-gas steps posted,Cutaway
-E,Energy,E12,Basic,Gas piping,Know what runs on gas,House gas line map (meter→appliances),Appliances on gas; pipe material; last leak test,Cutaway
-E,Energy,E13,Basic,Gas appliances & connections,Every flame accounted for,Flex connector and sediment trap detail,Appliance list; shutoffs; serviced dates,Cutaway
-E,Energy,E14,Basic,Furnace,Understand your heat engine,"Furnace cutaway (burner, exchanger, blower, filter)",Brand/model; fuel; age; filter size; serviced,Cutaway
-E,Energy,E15,Advanced,Exterior lighting — path,Guide every step,Low-voltage system diagram (transformer→runs),Transformer watts; fixtures; schedule,Exterior
-E,Energy,E16,Advanced,Exterior lighting — flood/security,Light as a deterrent,Motion sensor coverage cone diagram,Locations; sensor settings; aim checked,Exterior
-E,Energy,E17,Advanced,Surge protection & UPS,Defend the electronics,"Layered protection diagram (panel, strip, UPS)",Whole-house unit Y/N; protected gear; UPS runtime,Cutaway
-E,Energy,E18,Advanced,Subpanels,Power's branch offices,Main-to-subpanel feeder diagram,Locations; what they feed; amps,Cutaway
-E,Energy,E19,Advanced,Generator,Power when the grid fails,Portable vs standby hookup diagram; CO clearance zones,Type; watts; fuel; monthly run log; interlock Y/N,Exterior
-E,Energy,E20,Advanced,Propane tank,Your fuel on site,"Tank anatomy (gauge, regulator, relief valve)",Size; gauge %; supplier; regulator age,Exterior
-E,Energy,E21,Advanced,Fireplace,"The open flame, managed","Fireplace anatomy (damper, smoke shelf, flue)",Type; damper works; last swept; cap Y/N,Cutaway
-E,Energy,E22,Advanced,Chimney & flue,The exhaust tower,"Chimney cutaway (crown, cap, liner, flue)",Flue count; liner type; swept date; cap condition,Exterior
-E,Energy,E23,Professional,Transfer switch,Switch power sources safely,Transfer switch wiring concept,Manual or automatic; circuits covered; exercised date,Cutaway
-E,Energy,E24,Professional,Solar panels,Harvest your roof,System diagram (panels→inverter→panel→grid),kW size; installer; install date; production baseline,Exterior
-E,Energy,E25,Professional,Inverter,"DC to AC, explained",String vs micro inverter comparison,Model; location; fault history; firmware,Cutaway
-E,Energy,E26,Professional,Battery storage,Keep the sun for later,Backup flow diagram (what stays on),kWh; backed-up circuits; mode settings,Cutaway
-E,Energy,E27,Professional,Smart electrical panel,The breaker box gets a brain,Per-circuit monitoring diagram,Model; circuits monitored; alerts set,Cutaway
-E,Energy,E28,Professional,EV charger,Fuel at home,Level 1/2/3 comparison; circuit requirement diagram,Level; amps; circuit; installed,Cutaway
-E,Energy,E29,Professional,Small wind turbine,Power from the wind,Turbine siting and height diagram,Model; tower height; output; permits,Exterior
-E,Energy,E30,Professional,Boiler,Heat by water,Boiler loop diagram (boiler→radiators→return),Type; normal pressure; bled date; serviced,Cutaway
-E,Energy,E31,Professional,Radiant floor heating,Warmth underfoot,Radiant loop and manifold diagram,Zones; manifold location; fluid type,Cutaway
-E,Energy,E32,Professional,Geothermal heat pump,Heat from the earth,Ground loop types diagram (horizontal vs vertical),Loop type; model; fluid checked; serviced,Cutaway
-E,Energy,E33,Professional,Wood stove,Fire as a system,Stove clearances and flue diagram,Model; clearances; gasket date; flue swept,Cutaway
-E,Energy,E34,Professional,Pellet stove,Automated wood heat,"Pellet stove anatomy (hopper, auger, burn pot)",Model; pellet storage; cleaned; serviced,Cutaway
-F,Flow,F00,Basic,System overlay: The Flowing House,Trace every drop of water and every breath of air,"Cutaway master view, ghosted; supply traced in blue, hot in red, drains in green, conditioned air in orange from equipment through ducts to registers","Mark your main shutoff, heater, and cleanouts on the trace",Overlay
-F,Flow,F01,Basic,Plumbing toolkit,Stop water and fix flow,"Plumbing tool board (plunger, wrenches, auger); emergency cap kit",Tools owned; emergency kit location; tape and caps stocked,Cutaway
-F,Flow,F02,Basic,Water source (municipal / well),Know where every drop begins,Source-to-tap diagram (municipal vs well paths),Source type; provider or well info; normal pressure,Cutaway
-F,Flow,F03,Basic,Water testing,"Trust, then verify",What-to-test chart by source type,"Test dates; results (bacteria, lead, nitrates); lab used",Cutaway
-F,Flow,F04,Basic,Main supply line & meter,The artery in,Meter and main shutoff diagram; leak test via meter dial,Meter location; shutoff location; line material; leak test date,Cutaway
-F,Flow,F05,Basic,Shutoff valves,Stop water anywhere,Valve types (ball vs gate); fixture stop locations,Valve map by fixture; exercised date,Cutaway
-F,Flow,F06,Basic,Supply piping & manifolds,The house's veins,Pipe materials chart (copper/PEX/galvanized); manifold diagram,Materials; manifold location; pressure,Cutaway
-F,Flow,F07,Basic,Water heater,The hot heart,"Tank cutaway (anode, TPR valve, dip tube, sediment)",Type; brand; capacity; installed; temp setting; flushed; anode checked,Cutaway
-F,Flow,F08,Basic,Pipe insulation & freeze protection,Beat the freeze,Vulnerable pipes map; heat tape detail,Insulated runs; heat tape locations; freeze protocol,Cutaway
-F,Flow,F09,Basic,Faucets & fixtures,Anatomy of a faucet,Cartridge faucet exploded view; aerator detail,Fixture list; cartridge types; drips fixed,Cutaway
-F,Flow,F10,Basic,Toilets,The most-used machine in the house,"Tank anatomy (flapper, fill valve, flush path)",Toilet list; flapper sizes; parts replaced,Cutaway
-F,Flow,F11,Basic,Showers & tubs,Behind the wall,Shower valve anatomy; waterproofing layers,Valve types; caulk and grout date; leak checks,Cutaway
-F,Flow,F12,Basic,Hose bibs & spigots,"Outdoor water, winter-safe",Frost-free sillcock cutaway,Locations; frost-free Y/N; winterized date,Exterior
-F,Flow,F13,Basic,Drain piping,Gravity's plumbing,DWV tree diagram (fixture→stack→sewer),Material; slow drain history; snaked dates,Cutaway
-F,Flow,F14,Basic,Traps & cleanouts,The water seal explained,P-trap function diagram; cleanout locations map,Cleanout locations; trap issues,Cutaway
-F,Flow,F15,Basic,Vent stacks,Why drains need air,Venting principle diagram (trap siphon prevention),Roof vent count; blockage history,Cutaway
-F,Flow,F16,Basic,Sewer lateral,Your pipe to the street,"Lateral path diagram (house→main, ownership line)",Material; age; camera inspection date; root history,Cutaway
-F,Flow,F17,Basic,Gutters,Catch the roof's river,Gutter slope and sizing diagram,Material; size; cleaned dates; problem corners,Exterior
-F,Flow,F18,Basic,Downspouts,Carry it away,Downspout extension and burial detail,Count; discharge points; extensions Y/N,Exterior
-F,Flow,F19,Basic,Site grading & surface drainage,See how your whole lot sheds water,Positive grading detail at foundation; swale diagram,Trouble spots; regraded; swale map,Exterior
-F,Flow,F20,Basic,Central air conditioning,"Cold, explained",Refrigeration cycle diagram (condenser/evaporator),Brand; tonnage; age; refrigerant type; serviced,Cutaway
-F,Flow,F21,Basic,Thermostats & zoning,Talk to your climate,Thermostat wiring basics (C-wire); zone map,Model; schedule set; zones; batteries,Cutaway
-F,Flow,F22,Basic,Ductwork,Air's highway map,Duct layout (supply vs return); leak points,Material; known leaks; sealed and insulated,Cutaway
-F,Flow,F23,Basic,Registers & dampers,Balance the air,Damper positions diagram,Damper locations; seasonal positions,Cutaway
-F,Flow,F24,Basic,Air filters,The lungs' first defense,MERV scale chart; filter locations diagram,Sizes per unit; MERV; change schedule; last changed,Cutaway
-F,Flow,F25,Basic,Bathroom exhaust fans,Moisture's exit,Fan duct-to-exterior diagram,Locations; CFM; ducted outside Y/N; cleaned,Cutaway
-F,Flow,F26,Basic,Ceiling fans,Comfort that spins both ways,"Fan direction by season diagram (summer down, winter up)",Locations; direction switch dates; balanced,Cutaway
-F,Flow,F27,Advanced,Water pressure & PRV,Pressure in the healthy range,PRV anatomy; gauge reading diagram,Static PSI; PRV location; set point; expansion tank,Cutaway
-F,Flow,F28,Advanced,Leak detection & auto-shutoff,The system that watches the water,"Smart shutoff installation diagram (main line, sensors)",Device; sensor locations; auto-shutoff tested; alerts go to,Cutaway
-F,Flow,F29,Advanced,Well pump & pressure tank,Your private waterworks,"Well system diagram (pump, tank, pressure switch)",Pump type and depth; tank size; cut-in/out PSI; installed,Exterior
-F,Flow,F30,Advanced,Water softener,Tame hard water,"Ion exchange diagram (resin bed, brine cycle)",Model; hardness in/out; salt type; refilled,Cutaway
-F,Flow,F31,Advanced,Whole-house filtration,Filter at the front door,Filtration stages diagram,Stages; cartridge sizes; changed dates,Cutaway
-F,Flow,F32,Advanced,Drinking water filtration (RO),The purest tap in the house,RO stages diagram (sediment→carbon→membrane),Model; filter schedule; membrane date; sanitized,Cutaway
-F,Flow,F33,Advanced,Bidet & washlets,Plumbing's comfort upgrade,"Bidet seat hookup diagram (tee valve, power)",Locations; model; GFCI nearby; filter,Cutaway
-F,Flow,F34,Advanced,Septic tank,The private treatment plant,"Septic tank cutaway (baffles, scum, sludge layers)",Size; location map; pumped dates; riser Y/N,Exterior
-F,Flow,F35,Advanced,Leach field,Where water returns to earth,"Leach field cross-section (trenches, biomat)",Location map; installed; wet spots watch list,Exterior
-F,Flow,F36,Advanced,Sump pump,The basement's lifeguard,"Sump pit diagram (pump, float, check valve, discharge)",Model; tested date; battery backup Y/N; discharge point,Cutaway
-F,Flow,F37,Advanced,Rain barrels,Harvest at the downspout,"Rain barrel hookup diagram (diverter, overflow)",Barrels; capacity; mosquito screens; winter drain,Exterior
-F,Flow,F38,Advanced,Humidifier,Add moisture in winter,Bypass humidifier on-furnace diagram,Model; target %; pad changed,Cutaway
-F,Flow,F39,Advanced,Dehumidifier,Dry the damp,How dehumidification works diagram,Model; target %; drain setup; cleaned,Cutaway
-F,Flow,F40,Advanced,Heat pump,Heat that runs both ways,Reversing cycle diagram (heat vs cool mode),Model; age; backup heat type; defrost notes,Exterior
-F,Flow,F41,Professional,Cistern / rain harvesting,Store the sky,Harvest system diagram (roof→first flush→tank),Capacity; uses; screens cleaned,Exterior
-F,Flow,F42,Professional,UV treatment,Light that disinfects,UV chamber diagram,Model; lamp replaced; sleeve cleaned,Cutaway
-F,Flow,F43,Professional,Recirculation loop,"Hot water, instantly","Recirculation loop diagram (pump, return line)",Pump model; timer settings,Cutaway
-F,Flow,F44,Professional,Solar thermal hot water,Sun-heated water,Solar thermal loop (collector→exchanger→tank),Collector size; glycol checked; serviced,Cutaway
-F,Flow,F45,Professional,Greywater reuse,Use water twice,Greywater diverter diagram (laundry→landscape),System type; what's diverted; permit,Exterior
-F,Flow,F46,Professional,Sewage ejector pump,Pumping uphill when gravity can't,"Ejector pit diagram (pump, vent, check valve)",Model; basin location; tested; alarm Y/N,Cutaway
-F,Flow,F47,Professional,French drains,Drainage you can't see,"French drain cross-section (fabric, gravel, pipe)",Runs map; outlets; flushed,Exterior
-F,Flow,F48,Professional,Mini-splits,"Zoned comfort, no ducts","Mini-split anatomy (head, line set, condenser)",Zones and heads; model; filters washed,Cutaway
-F,Flow,F49,Professional,Window units,Cooling one room at a time,BTU sizing chart by room size,Units; BTUs; rooms; storage location,Cutaway
-F,Flow,F50,Professional,Whole-house fan,Cool with the evening,Airflow diagram (windows→attic),Model; CFM; winter cover; run rules,Cutaway
-F,Flow,F51,Professional,ERV / HRV ventilation,Fresh air without losing heat,Heat-exchange core diagram,Model; CFM; cores cleaned; filters,Cutaway
-G,Guard,G00,Basic,System overlay: The Guarded House,See every layer of protection at its post,"Cutaway + exterior composite, ghosted; locks, detectors, cameras, extinguishers, and escape routes marked at their stations",Mark your device locations; identify uncovered zones,Overlay
-G,Guard,G01,Basic,Emergency & safety toolkit,Grab-able tools for the worst day,"Emergency station diagram (flashlights, pry bar, shutoff tool)",Station location; contents; checked date,Cutaway
-G,Guard,G02,Basic,Door locks & deadbolts,Understand what makes a door secure,"Deadbolt anatomy (bolt, strike plate, reinforcement)",Doors and lock types; rekeyed date; spare key plan,Cutaway
-G,Guard,G03,Basic,Window locks,"The most common entry, closed",Window lock types chart,Locks checked per window; reinforcements,Cutaway
-G,Guard,G04,Basic,Surveillance cameras,See your property's blind spots,Camera coverage map of the property,"Cameras (location, type); app; blind spots",Exterior
-G,Guard,G05,Basic,Video recording & storage,Footage that's there when needed,Local vs cloud storage diagram,Retention days; storage type; checked date,Cutaway
-G,Guard,G06,Basic,Doorbell camera,"The front door, always answered","Doorbell wiring (transformer, chime) diagram",Model; wired or battery; storage plan,Exterior
-G,Guard,G07,Basic,Smoke detectors,Three minutes to escape,Placement code diagram (per floor and bedroom); ionization vs photoelectric chart,Locations; types; battery date; replace-by year,Cutaway
-G,Guard,G08,Basic,CO detectors & air monitoring,"The invisible threat, detected",CO sources in a home diagram,Locations; replace-by dates; alarm response posted; monitors; normal readings; alert thresholds,Cutaway
-G,Guard,G09,Basic,Fire extinguishers,The first sixty seconds of a fire,PASS technique illustration; ABC class chart,Locations; classes; gauge checks; expiry,Cutaway
-G,Guard,G10,Basic,Escape routes & egress,Two ways out of everywhere,Floor plan with escape arrows per room,Routes per room; meeting point; ladder locations; drill date,Cutaway
-G,Guard,G11,Basic,Emergency kit,"72 hours, ready","Kit contents diagram (water, food, light, meds)",Location; contents date; rotation due,Cutaway
-G,Guard,G12,Basic,Storm preparedness,Before the sky turns,Storm timeline (watch→warning→shelter),Shelter spot; supplies; trees trimmed; shutters,Cutaway
-G,Guard,G13,Basic,Power outage plan,"Dark house, calm family","Outage decision tree (fridge rules, generator start)",Flashlight spots; fridge rules; generator steps,Cutaway
-G,Guard,G14,Basic,Evacuation plan,"Leave fast, leave right",Go-bag contents; evacuation route map,Routes; go-bag location; document grab list; meeting point,Cutaway
-G,Guard,G15,Advanced,Alarm system,Know your system end to end,Alarm architecture (sensors→panel→monitoring),Provider; code holders; tested; monitoring number,Cutaway
-G,Guard,G16,Advanced,Motion detectors,Sensing intelligently,PIR coverage cone diagram; pet-immune zones,Locations; sensitivity; tested,Cutaway
-G,Guard,G17,Advanced,Childproofing,A house safe at toddler height,"Hazard map at child height (outlets, cords, stairs, anchors)",Gates; anchored furniture; cabinet locks; outlet covers,Cutaway
-G,Guard,G18,Advanced,Radon mitigation,The basement's invisible gas,Sub-slab depressurization diagram,Last test result; system Y/N; fan check,Cutaway
-G,Guard,G19,Professional,Safe,Protect the irreplaceable,Fire rating vs burglary rating chart,Rating; location; bolted Y/N; contents list location,Cutaway
-G,Guard,G20,Professional,Driveway alarm & sensors,Know when anyone arrives,Sensor beam placement diagram,Sensors; range; chime locations,Exterior
-G,Guard,G21,Professional,Fire sprinkler system,The always-on firefighter,Sprinkler head anatomy; system riser diagram,System type; valve location; inspection date,Cutaway
-G,Guard,G22,Professional,Storm shelter / safe room,The room that outlasts the storm,Safe room construction standards diagram,Location; rating; supplies inside; family drill,Exterior
-G,Guard,G23,Professional,Lightning rods & grounding,Take the strike safely,Lightning protection path (rod→conductor→ground),System Y/N; components; inspected,Exterior
-H,Home,H00,Basic,System overlay: The Living House,See where daily life runs through the machines,"Cutaway master view, ghosted; kitchen, laundry, food storage, and waste paths highlighted as activity zones",Mark your appliance locations and waste flow,Overlay
-H,Home,H01,Basic,Kitchen & cleaning toolkit,The machines' support crew,Cleaning caddy and appliance tool kit illustration,"Supplies; specialty tools (coil brush, drain snake); storage",Cutaway
-H,Home,H02,Basic,Refrigerator,Cold storage as a system,Refrigeration cycle diagram; zone temperature map (where food goes),Brand/model; temps set; coils cleaned; filter changed,Cutaway
-H,Home,H03,Basic,Range & oven,The most-used machine in the kitchen,"Range anatomy (burners, igniters, oven elements)",Fuel type; brand and model; self-clean rules; serviced,Cutaway
-H,Home,H04,Basic,Kitchen range hood,Capture the cooking air,Ducted vs recirculating diagram,Type; CFM; filters degreased,Cutaway
-H,Home,H05,Basic,Dishwasher,Clean dishes by system,"Dishwasher anatomy (spray arms, filter, drain loop)",Brand and model; filter cleaned; air gap Y/N; hose age,Cutaway
-H,Home,H06,Basic,Garbage disposal,The drain's grinder,"Disposal cutaway (impellers, reset, hex socket)",Model; never-list posted; unjam tool location,Cutaway
-H,Home,H07,Basic,Pantry,Rotation beats expiration,FIFO rotation diagram; storage life chart,Layout zones; staples list; pest checks,Cutaway
-H,Home,H08,Basic,Washer,"The wash, demystified","Washer anatomy (drum, pump, hoses)",Brand/model; hose age; gasket cleaned; filter,Cutaway
-H,Home,H09,Basic,Dryer,"Heat, tumble, exhaust","Dryer anatomy (element, belt, lint path)",Brand/model; vent cleaned; lint habits,Cutaway
-H,Home,H10,Basic,Dryer vent,The fire risk you can clean,Vent path diagram (dryer→exterior flap),Route length; material; cleaned date,Cutaway
-H,Home,H11,Basic,Laundry sink & drain,The utility workhorse,Standpipe and trap diagram,Sink type; trap cleaned; faucet,Cutaway
-H,Home,H12,Basic,Ironing & care,Care for what you wear,Fabric temperature chart,Equipment; descaled; station location,Cutaway
-H,Home,H13,Basic,Trash collection,"Waste out, on schedule","Collection logistics map (cans, pickup point)",Pickup days; can sizes; rules,Exterior
-H,Home,H14,Basic,Recycling,Sort it right,Local sorting rules chart,Accepted items; schedule; contamination notes,Cutaway
-H,Home,H15,Basic,Pets & pet infrastructure,The house systems your animals use,"Pet infrastructure map (doors, fence, feeding, waste)",Pets; vet contact; containment; pet door locations; licenses,Cutaway
-H,Home,H16,Advanced,Freezer (standalone/chest),"Deep cold, organized",Chest vs upright airflow diagram,Type; temp; defrosted; inventory location,Cutaway
-H,Home,H17,Advanced,Canning,"Preserve safely, by science",Water bath vs pressure canning decision chart,Equipment; gauge tested; recipe log location,Cutaway
-H,Home,H18,Advanced,Houseplants,The indoor garden,Window light zones map of the house,Plants; watering schedule; toxic-to-pets flags,Cutaway
-H,Home,H19,Advanced,Robot vacuum & floor care,Floors on autopilot,Robot navigation and no-go zones map,Model; schedule; bin and filter care; no-go zones,Cutaway
-H,Home,H20,Advanced,Aquarium,A sealed ecosystem indoors,Nitrogen cycle diagram; equipment loop,Tank size; livestock; water change schedule; test log,Cutaway
-H,Home,H21,Professional,Root cellar,Store food the old way,Root cellar venting and humidity diagram,Location; temp/humidity range; what-stores-well log,Cutaway
-H,Home,H22,Professional,Smoking & curing,Flavor and preservation by smoke,Cold vs hot smoking temperature chart,Smoker type; cures used; food safety notes,Cutaway
-H,Home,H23,Professional,Drying & dehydrating,"Remove water, keep the food",Dehydrator airflow diagram,Equipment; dried goods storage; conditioning notes,Cutaway
-H,Home,H24,Professional,Fermenting,Living preservation,"Fermentation vessel anatomy (airlock, brine line)",Vessels; active ferments log; troubleshooting notes,Cutaway
-H,Home,H25,Professional,Vacuum sealing,Air is the enemy,Sealer types comparison,Model; bag inventory; gasket checked,Cutaway
-H,Home,H26,Professional,Specialty refrigeration (wine/beverage/kegerator),Cold for connoisseurs,Wine temperature zones chart,Units; temps; condenser cleaned,Cutaway
-H,Home,H27,Professional,Central vacuum,Suction in the walls,Central vac piping diagram,Power unit location; inlets; canister emptied,Cutaway
-H,Home,H28,Professional,Laundry chute,Gravity does the laundry,Chute routing and fire-door diagram,Route; door latches; cleaned,Cutaway
-H,Home,H29,Professional,Dumbwaiter,The smallest elevator,"Dumbwaiter mechanism (cables, guides)",Capacity; inspected; lubricated,Cutaway
-H,Home,H30,Professional,Home gym,Train where you live,Floor load and layout diagram,Equipment; flooring; mirrors anchored,Cutaway
-I,Information,I00,Basic,System overlay: The Connected House,Trace the invisible network that ties it all together,"Cutaway master view, ghosted; data lines traced from service entry through router to every device; wireless coverage shading","Mark your service entry, router location, and dead zones",Overlay
-I,Information,I01,Basic,Network toolkit,Diagnose the invisible,"Network kit board (cable tester, crimper, spare cables)",Items owned; spare hardware; labeling system,Cutaway
-I,Information,I02,Basic,Internet service & modem,Where the internet enters,Service entry diagram (line→modem→router),ISP; plan speed; modem model; account #,Cutaway
-I,Information,I03,Basic,Router & WiFi,"Your airwaves, mapped",WiFi coverage heat map of the house,Router model; SSID; password location; dead zones,Cutaway
-I,Information,I04,Basic,Televisions & media devices,The screens and their feeds,AV connection diagram (sources to TV to sound),TVs; mounts secured; devices; remotes and apps,Cutaway
-I,Information,I05,Basic,Cable TV wiring,The coax tree,Splitter tree diagram (signal loss per split),Outlets; splitter locations; provider,Cutaway
-I,Information,I06,Advanced,Home office & tech,The room work lives in,Ergonomics plus power and data diagram,Equipment; backup power; network drops; ergonomic setup,Cutaway
-I,Information,I07,Advanced,Ethernet wiring,The wired backbone,Home network topology diagram,Jack locations; cable category; patch panel location,Cutaway
-I,Information,I08,Advanced,Satellite internet (Starlink),Broadband from orbit,Dish sightline and obstruction diagram,Provider; dish location; mount; speeds; cable route,Exterior
-I,Information,I09,Advanced,Smart home hub,One brain for the house,"Protocol diagram (WiFi, Zigbee, Z-Wave, Matter)",Hub model; protocol; device count,Cutaway
-I,Information,I10,Advanced,Smart thermostats,Climate that learns,Smart thermostat wiring (C-wire) diagram,Model; schedules; sensors paired,Cutaway
-I,Information,I11,Advanced,Smart locks,Keys become codes,Smart lock mechanism diagram,Doors; code log; batteries,Cutaway
-I,Information,I12,Advanced,Smart lighting,Light on command,Smart switch vs smart bulb decision diagram,Devices; scenes set; hub link,Cutaway
-I,Information,I13,Advanced,Voice assistants,Speak to the house,Voice ecosystem diagram (assistant→hub→devices),Devices; rooms; privacy mute policy,Cutaway
-I,Information,I14,Advanced,Digital accounts & passwords,The home's digital keyring,"Account map (utilities, devices, services)",Password manager; shared access; recovery contacts,Document Desk
-I,Information,I15,Professional,Smart sensors,The house that notices,"Sensor placement map (leak, motion, door)",Sensors; locations; batteries; automations,Cutaway
-I,Information,I16,Professional,Antenna (OTA),Free TV from the air,Antenna types and range chart,Type; channels received; aim direction,Exterior
-I,Information,I17,Professional,Satellite dish,Signal from space,Dish aiming diagram (azimuth/elevation),Dish location; receivers; provider,Exterior
-I,Information,I18,Professional,Cellular signal booster,Bars in every room,"Booster system diagram (outside antenna, amp, inside)",Model; carrier bands; antenna locations,Cutaway
-I,Information,I19,Professional,Home server / NAS,The family's private cloud,"Backup topology diagram (devices, NAS, offsite)",Model; capacity; backup schedule; offsite copy,Cutaway
-I,Information,I20,Professional,Weather station,Your yard's own forecast,"Station siting diagram (height, exposure)",Model; sensors; data service; calibrated,Exterior
-I,Information,I21,Professional,Home theater & media room,The room built for the screen,Speaker placement diagram (5.1 and 7.1),Equipment; calibrated; lighting control,Cutaway
-I,Information,I22,Professional,Intercom,Talk through the walls,Intercom wiring diagram,System type; stations; working Y/N,Cutaway
-X,Dashboard (Appendix),X00,Basic,The Dashboard: your whole home on a dozen spreads,One place where every system meets — the pages you'll open most,"Exterior + cutaway composite, ghosted, with callout lines to each dashboard spread (shutoffs, contacts, schedule)",How the appendix cross-references part codes throughout the book,Overlay
-X,Dashboard (Appendix),X01,Basic,Master shutoff map,"Stop water, gas, and power in seconds","Floor plan marking water main, gas valve, main breaker",Water main location; gas valve location; main breaker location; tools needed,Document Desk
-X,Dashboard (Appendix),X02,Basic,Emergency contacts,Every number when seconds matter,One-page contact card layout,Utility emergency lines; nearest hospital; neighbors; family; key holders,Document Desk
-X,Dashboard (Appendix),X03,Basic,Master utility account list,Every account on one spread,Utility connection points map of the house,Provider; account #; monthly average; autopay Y/N; contact (per utility),Document Desk
-X,Dashboard (Appendix),X04,Basic,Master contractor directory,The right pro in one glance,Trades wheel (which trade fixes which problem),Trade; name; phone; used for; rating; notes,Document Desk
-X,Dashboard (Appendix),X05,Basic,Master warranty index,Never let a warranty lapse unseen,Sample master index table layout,Item; brand; purchase date; warranty end; registered Y/N; document location,Document Desk
-X,Dashboard (Appendix),X06,Basic,Maintenance schedule,The rhythm of care for the whole house,Annual task wheel by month and system,Task; frequency; last done; next due,Document Desk
-X,Dashboard (Appendix),X07,Basic,Maintenance budget,Know what upkeep really costs,Stacked bar of annual costs by system; reserve-fund gauge,Annual budget; reserve balance; actuals by system,Document Desk
-X,Dashboard (Appendix),X08,Basic,Spring maintenance checklist,One spread that runs your whole spring,Annual calendar wheel with spring tasks highlighted by system,Tasks completed; dates; findings; costs,Document Desk
-X,Dashboard (Appendix),X09,Basic,Summer maintenance checklist,One spread that runs your whole summer,Annual calendar wheel with summer tasks highlighted by system,Tasks completed; dates; findings; costs,Document Desk
-X,Dashboard (Appendix),X10,Basic,Fall maintenance checklist,One spread that runs your whole fall,Annual calendar wheel with fall tasks highlighted by system,Tasks completed; dates; findings; costs,Document Desk
-X,Dashboard (Appendix),X11,Basic,Winter maintenance checklist,One spread that runs your whole winter,Annual calendar wheel with winter tasks highlighted by system,Tasks completed; dates; findings; costs,Document Desk
-X,Dashboard (Appendix),X12,Basic,Glossary of trades & terms,"Speak plumber, electrician, and roofer",Illustrated mini-glossary spreads (the 100 words contractors use),Terms learned; your own notes and local terms,Document Desk
+Part,Part Name,"Form Page (even, left)","Diagram Page (odd, right)",Tier,Item,Spread Goal,Diagram Page Content,Form Page Fields,Base View,Artwork Source
+FRONT,The Master House,FM02,FM03,Basic,The House (exterior master view),Meet the one house this whole book is about — outside,"Full exterior illustration: house, garage, shed, garden, drive (the canonical view every Curb and exterior zoom comes from)",Reader sketches or photographs their own home's equivalent view; labels their versions of each element,,Master artwork
+FRONT,The Master House,FM04,FM05,Basic,The Cutaway (interior master view),Meet the same house — opened up,"Full cutaway illustration: framing, floors, rooms, garage (the canonical view every interior zoom and system overlay comes from)",Reader maps their own floor plan onto the cutaway concept; notes where their rooms differ,,Master artwork
+FRONT,The Master House,FM06,FM07,Basic,Homeowner's toolkit,Own the 20 tools that solve 80 percent of problems,"Tool wall illustration, tiered Beginner / Advanced / Pro",Tools owned checklist; storage location; loaned-out log,Document Desk,Spot art
+A,Admin,"00 (opener spread, 01 blank)",A00,Basic,Admin,See every document pinned to the part of the home it governs,"Exterior master view, ghosted; document callouts pinned to what they cover (deed→lot, policy→roof, mortgage→whole house)","Checklist: which documents exist, which are missing",Overlay,Composite overlay layer
+A,Admin,A02,A03,Basic,Budget & affordability,Understand the true monthly cost of this home and record yours,Pie chart of total monthly cost (PITI + utilities + upkeep); the 1-2% annual maintenance rule bar,Purchase price; down payment; monthly PITI; utilities estimate; maintenance reserve; total monthly cost,Document Desk,Spot art (zoom of master view)
+A,Admin,A04,A05,Basic,Mortgage & financing,Understand how a mortgage amortizes and record your loan,Amortization curve (interest vs principal over the term); anatomy of one payment,Lender/servicer; loan #; type; rate; term; monthly payment; escrow Y/N; payoff date,Document Desk,Spot art (zoom of master view)
+A,Admin,A06,A07,Basic,Home inspection,Understand what an inspection covers and log your report's findings,House cutaway tagged with the major inspection zones,Inspector; date; report location; major findings; fixed items; deferred items,Document Desk,Spot art (zoom of master view)
+A,Admin,A08,A09,Basic,Appraisal,Understand how home value is determined and record yours,"Comps map; value-drivers diagram (location, size, condition)",Appraised value; date; appraiser; $/sqft; comps used,Document Desk,Spot art (zoom of master view)
+A,Admin,A10,A11,Basic,Title & deed,Understand what proves ownership and where yours lives,Chain-of-title timeline; annotated sample deed,Deed type; recording date; county registry; title policy #; storage location,Document Desk,Spot art (zoom of master view)
+A,Admin,A12,A13,Basic,Closing & escrow,Understand the closing process and archive your documents,Closing flowchart (offer→escrow→keys); settlement statement anatomy,Closing date; escrow company; cash to close; document storage location,Document Desk,Spot art (zoom of master view)
+A,Admin,A14,A15,Basic,Property survey & boundaries,Know exactly what land is yours,Annotated plat/survey sample; corner-pin locator sketch,Survey date; surveyor; lot size; pin locations; easements; encroachments,Document Desk,Spot art (zoom of master view)
+A,Admin,A16,A17,Basic,Tracking home value & equity,Watch your largest asset grow,Equity stack chart (value vs loan balance over years),Estimated value by year; loan balance; equity; improvements added,Document Desk,Spot art (zoom of master view)
+A,Admin,A18,A19,Basic,Preparing to sell,Know what selling well requires,Sale-prep timeline (90/60/30 days); curb-appeal checklist illustration,Target date; agent; repair list; staging notes; list price,Document Desk,Spot art (zoom of master view)
+A,Admin,A20,A21,Advanced,Renovation planning,Plan projects like a contractor,Project lifecycle flow (dream→budget→permit→build→inspect); cost-vs-value chart,Project; budget; contractor; permit #; start/end; final cost,Document Desk,Spot art (zoom of master view)
+A,Admin,A22,A23,Advanced,Permits for improvements,Know when the city must say yes,Permit decision tree; inspection sequence diagram,Permit #; scope; issued date; inspections passed; closed date,Document Desk,Spot art (zoom of master view)
+A,Admin,A24,A25,Advanced,Transferring the home,Understand the ways a home changes hands,Transfer paths diagram (sale / gift / inheritance / trust),Intended path; attorney; documents in place; beneficiaries,Document Desk,Spot art (zoom of master view)
+A,Admin,A26,A27,Professional,Renting out space,The home as income,"Rental readiness diagram (legal, safety, insurance)",Space rented; permits; insurance rider; income records,Document Desk,Spot art (zoom of master view)
+B,Bookkeeping,"00 (opener spread, 01 blank)",B00,Basic,Bookkeeping,"See every account, policy, and record attached to the home","Exterior master view, ghosted; record callouts (utility accounts→meters, warranties→appliances, shutoff map→valves)",Checklist: records complete vs missing per callout,Overlay,Composite overlay layer
+B,Bookkeeping,B02,B03,Basic,Records toolkit,Equip the paper side of ownership,"Records station illustration (fireproof box, scanner, shredder, labels)",Fireproof box location; scanning app; shredder; backup method,Document Desk,Spot art (zoom of master view)
+B,Bookkeeping,B04,B05,Basic,Home records & filing system,Every paper findable in a minute,Filing tree of home record categories,System used; location; categories; backup method,Document Desk,Spot art (zoom of master view)
+B,Bookkeeping,B06,B07,Basic,Home inventory,Prove what you own before you lose it,Room-by-room inventory walk diagram,Rooms completed; video date; cloud storage; appraised items,Document Desk,Spot art (zoom of master view)
+B,Bookkeeping,B08,B09,Basic,Homeowner's insurance,Understand what your policy covers and record it,Coverage umbrella diagram (dwelling/property/liability/ALE); claim process flow,Carrier; policy #; premium; deductible; dwelling coverage; renewal date; agent,Document Desk,Spot art (zoom of master view)
+B,Bookkeeping,B10,B11,Basic,Property taxes,Understand how your tax bill is calculated,Tax math diagram (assessed value × rate); appeal process flow,Parcel #; assessed value; annual tax; due dates; exemptions,Document Desk,Spot art (zoom of master view)
+B,Bookkeeping,B12,B13,Advanced,Flood insurance,Know your flood risk and your coverage,Flood-zone map sketch; covered vs not-covered split,Flood zone; policy #; premium; coverage amount; elevation certificate Y/N,Document Desk,Spot art (zoom of master view)
+B,Bookkeeping,B14,B15,Advanced,Hazard / umbrella insurance,Understand liability beyond the basics,Liability layers diagram (home policy → umbrella),Policy #; limit; premium; carrier; renewal date,Document Desk,Spot art (zoom of master view)
+B,Bookkeeping,B16,B17,Advanced,HOA / covenants & restrictions,Know the rules that bind your property,Governance diagram (board→rules→you); what-needs-approval chart,HOA name; dues; contact; key restrictions; approvals required for,Document Desk,Spot art (zoom of master view)
+B,Bookkeeping,B18,B19,Advanced,Home warranty plan,Know what the plan really covers,Home warranty vs insurance Venn diagram,Provider; cost; covered systems; claim process; renewal,Document Desk,Spot art (zoom of master view)
+B,Bookkeeping,B20,B21,Advanced,Estate & ownership planning,Make ownership outlive you,Ownership transfer diagram (will / trust / joint title),Will location; executor; how titled; beneficiaries; attorney,Document Desk,Spot art (zoom of master view)
+C,Curb,"00 (opener spread, 01 blank)",C00,Basic,Curb,See everything under the open sky as one system,"Exterior master view in full color; grounds elements highlighted and labeled (lawn, trees, beds, drive, fence, pool, coop)",Reader's lot sketch: position their own outdoor elements,Overlay,Composite overlay layer
+C,Curb,C02,C03,Basic,Yard & garden toolkit,The hand and power tools of the land,Tiered garden tool wall,Tools owned; fuel and charging; sharpened dates; storage,Exterior,Spot art (zoom of master view)
+C,Curb,C04,C05,Basic,Property boundaries & markers,Know your exact lines,Lot sketch with pin locations,Pin locations/landmarks; fence offsets; disputes,Exterior,Own whole-house layer
+C,Curb,C06,C07,Basic,Permits & zoning,Know your zoning envelope,Lot diagram showing setbacks and height limits,Zoning class; setbacks; height limit; permit office contact,Document Desk,Spot art (zoom of master view)
+C,Curb,C08,C09,Basic,Driveway,Understand your surface and its enemies,Driveway cross-section (base/surface layers); crack types chart,Material; area; last sealed; drainage notes,Exterior,Spot art (zoom of master view)
+C,Curb,C10,C11,Basic,Walkways & paths,Safe passage in all seasons,Path construction cross-section,Materials; trip hazards; ice strategy,Exterior,Spot art (zoom of master view)
+C,Curb,C12,C13,Basic,Steps & ramps,Stairs that meet code,Stair geometry diagram (rise/run/handrail heights),Locations; rail condition; code gaps,Exterior,Spot art (zoom of master view)
+C,Curb,C14,C15,Basic,Fencing,Know your fence and whose it is,Post-setting detail; property-line offset diagram,Material; length; shared sides; last stained,Exterior,Spot art (zoom of master view)
+C,Curb,C16,C17,Basic,Mailbox,Meet code at the curb,USPS height and setback spec diagram,Type; lock Y/N; installed date; post type,Exterior,Spot art (zoom of master view)
+C,Curb,C18,C19,Basic,Package & courier deliveries,Receive safely in the delivery age,"Delivery zone diagram (porch box, locker, camera view)",Drop spot; delivery instructions; parcel box; theft plan,Exterior,Spot art (zoom of master view)
+C,Curb,C20,C21,Basic,House numbers & signage,Be findable in an emergency,Sightline diagram from the street,Size; lighted Y/N; location,Exterior,Spot art (zoom of master view)
+C,Curb,C22,C23,Basic,Lawn,Understand turf as a system,Grass anatomy (root depth vs mowing height); seasonal care wheel,Area; grass type; mow height; fertilize and aerate dates,Exterior,Spot art (zoom of master view)
+C,Curb,C24,C25,Basic,Mowing & equipment,Run your fleet safely,"Mower anatomy (blade, deck, filters)",Equipment list; fuel type; blade sharpened; winterized date,Exterior,Spot art (zoom of master view)
+C,Curb,C26,C27,Basic,Trees & shade,"Your largest plants, your largest risks",Tree hazard zones diagram (over roof and lines); root zone illustration,"Inventory (species, height, distance to house); arborist; last pruned",Exterior,Own whole-house layer
+C,Curb,C28,C29,Basic,Hedges & shrubs,The living walls,Pruning shapes diagram (formal hedge vs natural form),Inventory; trim schedule; height limits,Exterior,Spot art (zoom of master view)
+C,Curb,C30,C31,Basic,Flower beds & ornamentals,Bloom all season by design,Succession bloom timeline; bed layout,Beds; key plants; divide/deadhead schedule,Exterior,Spot art (zoom of master view)
+C,Curb,C32,C33,Advanced,Parking,Map your parking assets,Site sketch of spaces,Spaces; surfaces; permits needed,Exterior,Spot art (zoom of master view)
+C,Curb,C34,C35,Advanced,Gates,Gates that swing true,Gate hinge and latch anatomy,Locations; hardware; opener Y/N,Exterior,Spot art (zoom of master view)
+C,Curb,C36,C37,Advanced,Retaining walls,Understand what holds your hill,"Wall cross-section (drainage, weep holes, batter)",Locations; height; material; bulge or lean notes,Exterior,Spot art (zoom of master view)
+C,Curb,C38,C39,Advanced,Snow & ice management,Winter's standing appointment,Ice dam formation diagram; de-icing strategy map,Equipment; de-icer type; contractor; roof rake Y/N,Exterior,Spot art (zoom of master view)
+C,Curb,C40,C41,Advanced,Sprinkler irrigation,See your zones underground,Yard zone map; sprinkler head types chart,Controller model; zones and coverage; winterize/startup dates,Exterior,Spot art (zoom of master view)
+C,Curb,C42,C43,Advanced,Vegetable garden,Map your growing operation,Bed layout plan; sun map; hardiness zone map,Zone; beds; sun hours; soil test date; crops,Exterior,Spot art (zoom of master view)
+C,Curb,C44,C45,Advanced,Herb garden,Perennial vs annual herbs at a glance,Herb layout/spiral plan,Herbs grown; perennials list; harvest notes,Exterior,Spot art (zoom of master view)
+C,Curb,C46,C47,Advanced,Compost,Waste becomes soil,"Compost layers diagram (greens, browns, air, water)",System type; ratio notes; turned dates,Exterior,Spot art (zoom of master view)
+C,Curb,C48,C49,Advanced,Wildlife & critter management,Coexist on your terms,"Entry and attractant map (deer, raccoons, moles)",Species seen; deterrents; exclusion work; local trapping rules,Exterior,Spot art (zoom of master view)
+C,Curb,C50,C51,Advanced,Grill & smoker,Master fire and food safely,"Grill anatomy (burners, grates, grease path)",Type; fuel; grates cleaned; burner check,Exterior,Spot art (zoom of master view)
+C,Curb,C52,C53,Advanced,Fire pit,"Fire, contained",Clearance diagram (distances to structures),Type; fuel; local burn rules; screen Y/N,Exterior,Spot art (zoom of master view)
+C,Curb,C54,C55,Advanced,Outdoor furniture & cushions,Furnish the open air,Material weathering chart,Inventory; covers; winter storage plan,Exterior,Spot art (zoom of master view)
+C,Curb,C56,C57,Advanced,Playground & play structures,Safe play by design,Fall zone and surfacing diagram,Equipment; surfacing depth; hardware checked; age fit,Exterior,Spot art (zoom of master view)
+C,Curb,C58,C59,Advanced,Holiday & decorative lighting,"Festive, safely",Outdoor circuit load diagram; safe attachment methods,Storage location; circuits used; timers; outdoor-rated check,Exterior,Spot art (zoom of master view)
+C,Curb,C60,C61,Professional,Raised beds,Understand bed-building,Raised bed cross-section (soil layers),Count; sizes; soil mix; built date,Exterior,Spot art (zoom of master view)
+C,Curb,C62,C63,Professional,Greenhouse,A climate you control,Greenhouse airflow and venting diagram,Size; glazing; heat source; vents,Exterior,Spot art (zoom of master view)
+C,Curb,C64,C65,Professional,Orchard & fruit trees,Know each tree's needs,Pruning cuts diagram; tree spacing plan,"Trees (variety, planted, rootstock); harvest months",Exterior,Spot art (zoom of master view)
+C,Curb,C66,C67,Professional,Berry bushes & vines,"Small fruits, big returns",Trellis systems diagram,Varieties; locations; pruned date,Exterior,Spot art (zoom of master view)
+C,Curb,C68,C69,Professional,Drip irrigation,"Water at the root, drop by drop",Drip schematic (filter→regulator→emitters),Zones; emitter types; flush date,Exterior,Spot art (zoom of master view)
+C,Curb,C70,C71,Professional,Robot mower,The lawn that cuts itself,Boundary wire or GPS zones map,Model; boundary type; schedule; blades changed,Exterior,Spot art (zoom of master view)
+C,Curb,C72,C73,Professional,Pond,A balanced ecosystem in a basin,"Pond cross-section (liner, shelves, biology)",Volume; liner type; fish and plants; seasonal care,Exterior,Spot art (zoom of master view)
+C,Curb,C74,C75,Professional,Pond pump & filtration,Keep water moving and clear,Pump-filter-UV flow loop diagram,Pump model; GPH; filter type; cleaned date,Exterior,Spot art (zoom of master view)
+C,Curb,C76,C77,Professional,Fountain & water features,"Moving water, simply",Recirculation diagram,Feature; pump model; winter procedure,Exterior,Spot art (zoom of master view)
+C,Curb,C78,C79,Professional,Pool,Understand the vessel,"Pool anatomy cutaway (skimmer, returns, main drain)",Volume; surface type; opened/closed dates; rules posted,Exterior,Spot art (zoom of master view)
+C,Curb,C80,C81,Professional,Pool pump & filtration,The pool's heart and kidneys,Circulation loop diagram; filter types chart,Pump model/HP; filter type; pressure baseline; backwash date,Exterior,Spot art (zoom of master view)
+C,Curb,C82,C83,Professional,Pool heater,"Warm water, on budget",Heater types comparison (gas / heat pump / solar),Type; model; target temp; serviced date,Exterior,Spot art (zoom of master view)
+C,Curb,C84,C85,Professional,Pool chemistry,Read water like a pro,"Chemistry wheel (pH, chlorine, alkalinity ranges)","Test log: date, pH, chlorine, alkalinity, actions",Exterior,Spot art (zoom of master view)
+C,Curb,C86,C87,Professional,Pool cover & safety,Layers of protection,Safety layers diagram (fence→alarm→cover),Cover type; barrier height; alarms; latch checks,Exterior,Spot art (zoom of master view)
+C,Curb,C88,C89,Professional,Hot tub / spa,"Small water, fast chemistry",Spa plumbing loop diagram,Model; volume; drain/refill date; chemistry log,Exterior,Spot art (zoom of master view)
+C,Curb,C90,C91,Professional,Outdoor kitchen,Cook where you live,"Utility runs diagram (gas, water, power to the island)",Appliances; gas source; winterize steps,Exterior,Spot art (zoom of master view)
+C,Curb,C92,C93,Professional,Outdoor shower,Rinse where you swim,Outdoor shower plumbing and drain diagram,Location; hot water Y/N; winterize steps,Exterior,Spot art (zoom of master view)
+C,Curb,C94,C95,Professional,Sport court & hoop,Play at home,Court dimensions and surfacing diagram,Type; surface; hoop height; maintenance,Exterior,Spot art (zoom of master view)
+C,Curb,C96,C97,Professional,Chicken coop & backyard poultry,Eggs from the backyard,"Coop anatomy (roost, nest boxes, run, predator-proofing)",Flock; coop specs; local rules; predator audit,Exterior,Spot art (zoom of master view)
+C,Curb,C98,C99,Professional,Beehives,"Keep bees, legally and well","Hive anatomy (boxes, frames)",Hives; registration; inspection log; harvest dates,Exterior,Spot art (zoom of master view)
+C,Curb,C100,C101,Professional,Outdoor & landscape speakers,Sound in the garden,Speaker zones and buried cable diagram,Zones; amplifier location; volume rules,Exterior,Spot art (zoom of master view)
+D,Dwelling,"00 (opener spread, 01 blank)",D00,Basic,Dwelling,See the bones and envelope as one continuous shell,"Cutaway master view; frame, foundation, roof, and envelope layers highlighted; load path arrows","Mark your home's structure type, stories, attic and basement access",Overlay,Composite overlay layer
+D,Dwelling,D02,D03,Basic,Repair & carpentry toolkit,Build and fix the dwelling,Tiered carpentry wall (level to saws); ladder safety angles,Tools owned; ladder sizes; PPE; storage,Cutaway,Spot art (zoom of master view)
+D,Dwelling,D04,D05,Basic,Foundation,Read your foundation's health,Foundation types cutaway (slab/crawl/basement); crack severity chart,Type; crack map; moisture notes; last inspected,Cutaway,Own whole-house layer
+D,Dwelling,D06,D07,Basic,Basement & crawlspace,Know the space beneath,Basement moisture sources diagram; crawlspace anatomy,Type; moisture readings; access points; stored items,Cutaway,Spot art (zoom of master view)
+D,Dwelling,D08,D09,Basic,Framing & load paths,See how the house stands up,Load path diagram (roof→walls→foundation); bearing vs partition walls,Framing type; known bearing walls; sag or bounce notes,Cutaway,Own whole-house layer
+D,Dwelling,D10,D11,Basic,Siding & exterior walls,The weather skin,Wall cross-section (siding→barrier→sheathing),Material; last washed/painted; damage map,Exterior,Spot art (zoom of master view)
+D,Dwelling,D12,D13,Basic,Exterior paint & caulking,The thin line against rot,"Failure points diagram (joints, sills, trim)",Colors and brands; last painted; caulk checked,Exterior,Spot art (zoom of master view)
+D,Dwelling,D14,D15,Basic,Windows,Understand a window's anatomy,"Window anatomy (sash, glazing, weep holes, low-E)",Count; type and material; age; failed seals list,Exterior,Spot art (zoom of master view)
+D,Dwelling,D16,D17,Basic,Exterior doors,"Tight, true, and secure","Door anatomy (jamb, sweep, threshold, strike)",Door list; weatherstrip condition; adjusted date,Exterior,Spot art (zoom of master view)
+D,Dwelling,D18,D19,Basic,Garage door & opener,Your largest moving object,"Spring, cable, and track anatomy; safety sensor alignment",Opener model; spring type; balance test date; sensor test,Exterior,Spot art (zoom of master view)
+D,Dwelling,D20,D21,Basic,Insulation,Where heat escapes,Whole-house heat loss diagram (% by surface); R-value map by area,Attic R-value; wall type; floor/crawl; upgrades,Cutaway,Own whole-house layer
+D,Dwelling,D22,D23,Basic,Air sealing & vapor barriers,Stop the leaks you can't see,Common air leak points diagram,Known drafts; sealed dates; blower test result,Cutaway,Own whole-house layer
+D,Dwelling,D24,D25,Basic,Attic,Your house's diagnostic space,Attic inspection map (what to check where),Access location; insulation depth; leak stains; pest signs,Cutaway,Spot art (zoom of master view)
+D,Dwelling,D26,D27,Basic,Attic ventilation,The breathing roof,Soffit-to-ridge airflow diagram,Vent types; net free area estimate; baffles Y/N,Cutaway,Own whole-house layer
+D,Dwelling,D28,D29,Basic,Roof covering (shingles/metal/tile),Know your roof's age and enemies,"Roof layers cutaway (deck, underlayment, covering)",Material; installed year; estimated life left; leak history,Exterior,Spot art (zoom of master view)
+D,Dwelling,D30,D31,Basic,Roof flashing & valleys,Where roofs actually leak,"Flashing details (chimney, valley, vent boot)",Flashing points map; last inspected; resealed,Exterior,Spot art (zoom of master view)
+D,Dwelling,D32,D33,Basic,Soffits & fascia,The roof's edge explained,"Eave cross-section (soffit, fascia, gutter relationship)",Material; vent type; rot spots,Exterior,Spot art (zoom of master view)
+D,Dwelling,D34,D35,Basic,Pest control & exclusion,Keep the wild outside,House entry points map,Pests seen; entry points sealed; service contract,Cutaway,Own whole-house layer
+D,Dwelling,D36,D37,Advanced,Storm doors & window screens,The seasonal second layer,Storm door anatomy; screen repair steps,Inventory; seasonal swap dates; repairs,Exterior,Spot art (zoom of master view)
+D,Dwelling,D38,D39,Advanced,Deck,The room outside,Ledger attachment detail (the critical joint); joist anatomy,Size; material; ledger checked; stained date,Exterior,Spot art (zoom of master view)
+D,Dwelling,D40,D41,Advanced,Patio,"Stone underfoot, done right",Patio base cross-section,Material; area; releveled; joint sand date,Exterior,Spot art (zoom of master view)
+D,Dwelling,D42,D43,Advanced,Garage interior & organization,The hardest-working room,"Garage zones diagram (wall systems, overhead racks)",Zones; wall system; overhead storage; hazardous items stored right,Cutaway,Spot art (zoom of master view)
+D,Dwelling,D44,D45,Professional,Pergola & shade structures,Shade by design,Post and beam connection details,Structure; material; hardware check; stained,Exterior,Spot art (zoom of master view)
+D,Dwelling,D46,D47,Professional,Shed,The fifth wall of storage,Shed foundation options diagram,Size; foundation; contents zones; roof condition,Exterior,Spot art (zoom of master view)
+D,Dwelling,D48,D49,Professional,Workshop,A safe place to make,"Workshop layout zones (dust, power, bench)",Power available; dust management; tool inventory location,Exterior,Spot art (zoom of master view)
+D,Dwelling,D50,D51,Professional,Detached garage,The second building,"Garage systems mini-map (power, door, roof)",Size; power Y/N; door serviced; roof age,Exterior,Spot art (zoom of master view)
+D,Dwelling,D52,D53,Professional,Well house / pump house,Protect the water source,Well house freeze-protection diagram,Heat source; insulation; contents; winter checks,Exterior,Spot art (zoom of master view)
+D,Dwelling,D54,D55,Professional,Outdoor storage,Everything in its place outside,Property storage map,Locations; contents; weatherproofing notes,Exterior,Spot art (zoom of master view)
+D,Dwelling,D56,D57,Professional,Elevator & stair lift,Vertical mobility at home,Stair lift track and elevator shaft diagrams,Type; capacity; inspected; service contract,Cutaway,Spot art (zoom of master view)
+D,Dwelling,D58,D59,Professional,ADU / accessory dwelling,A second home on the lot,"ADU types diagram (detached, garage conversion, basement)",Type; permits; utilities metered; occupancy,Exterior,Spot art (zoom of master view)
+D,Dwelling,D60,D61,Professional,Daylighting & skylights,Free light from above,Skylight flashing cross-section,Locations; leak history; shades,Exterior,Spot art (zoom of master view)
+E,Energy,"00 (opener spread, 01 blank)",E00,Basic,Energy,"Trace every wire, pipe of gas, and duct of conditioned air","Cutaway master view, ghosted; electrical traced panel-to-outlet and gas meter-to-appliance, each in its color","Mark your panel, meter, and equipment locations on the trace",Overlay,Composite overlay layer
+E,Energy,E02,E03,Basic,Electrical toolkit,Work near power safely,"Tester-first tool board (voltage tester, multimeter, fish tape)",Testers owned; PPE; breaker lockout practice,Cutaway,Spot art (zoom of master view)
+E,Energy,E04,E05,Basic,Electrical service entrance & meter,Where power arrives,"Service entrance diagram (drop, meter, mast)",Amps (100/200); overhead or underground; meter #,Cutaway,Spot art (zoom of master view)
+E,Energy,E06,E07,Basic,Main panel & breakers,Command center of power,Panel anatomy with labeled breaker map,Panel brand; amps; breaker map filled; AFCI/GFCI present,Cutaway,Spot art (zoom of master view)
+E,Energy,E08,E09,Basic,Circuits & wiring,What's on each circuit,Circuit tracing diagram; wire gauge chart,Circuit map (room→breaker); wiring type; year,Cutaway,Own whole-house layer
+E,Energy,E10,E11,Basic,Outlets & GFCI/AFCI,The safety outlets explained,GFCI cutaway (test/reset); where-code-requires diagram,GFCI locations; test log; worn outlets list,Cutaway,Spot art (zoom of master view)
+E,Energy,E12,E13,Basic,Switches,Every switch decoded,Three-way switch wiring diagram,Mystery switches solved; dimmer locations,Cutaway,Spot art (zoom of master view)
+E,Energy,E14,E15,Basic,Grounding system,The path that saves lives,"Grounding diagram (rod, bonding, panel)",Rod location; bonded systems; inspected,Cutaway,Own whole-house layer
+E,Energy,E16,E17,Basic,Interior lighting fixtures,Light every room right,"Lighting layers diagram (ambient, task, accent)",Fixture inventory; bulb types and sizes per room,Cutaway,Spot art (zoom of master view)
+E,Energy,E18,E19,Basic,Lighting controls & dimmers,Control the mood,LED dimmer compatibility chart,Dimmer locations; bulb pairing notes,Cutaway,Spot art (zoom of master view)
+E,Energy,E20,E21,Basic,Exterior lighting — entry,Welcome and security at the door,Entry lighting placement diagram,Fixtures; bulbs; controls (timer/photocell),Exterior,Spot art (zoom of master view)
+E,Energy,E22,E23,Basic,Gas meter & main shutoff,Find and operate the gas main,Meter anatomy with shutoff valve positions (quarter-turn on/off),Meter location; shutoff tool location; smell-gas steps posted,Cutaway,Spot art (zoom of master view)
+E,Energy,E24,E25,Basic,Gas piping,Know what runs on gas,House gas line map (meter→appliances),Appliances on gas; pipe material; last leak test,Cutaway,Own whole-house layer
+E,Energy,E26,E27,Basic,Gas appliances & connections,Every flame accounted for,Flex connector and sediment trap detail,Appliance list; shutoffs; serviced dates,Cutaway,Spot art (zoom of master view)
+E,Energy,E28,E29,Basic,Furnace,Understand your heat engine,"Furnace cutaway (burner, exchanger, blower, filter)",Brand/model; fuel; age; filter size; serviced,Cutaway,Spot art (zoom of master view)
+E,Energy,E30,E31,Advanced,Exterior lighting — path,Guide every step,Low-voltage system diagram (transformer→runs),Transformer watts; fixtures; schedule,Exterior,Spot art (zoom of master view)
+E,Energy,E32,E33,Advanced,Exterior lighting — flood/security,Light as a deterrent,Motion sensor coverage cone diagram,Locations; sensor settings; aim checked,Exterior,Spot art (zoom of master view)
+E,Energy,E34,E35,Advanced,Surge protection & UPS,Defend the electronics,"Layered protection diagram (panel, strip, UPS)",Whole-house unit Y/N; protected gear; UPS runtime,Cutaway,Spot art (zoom of master view)
+E,Energy,E36,E37,Advanced,Subpanels,Power's branch offices,Main-to-subpanel feeder diagram,Locations; what they feed; amps,Cutaway,Spot art (zoom of master view)
+E,Energy,E38,E39,Advanced,Generator,Power when the grid fails,Portable vs standby hookup diagram; CO clearance zones,Type; watts; fuel; monthly run log; interlock Y/N,Exterior,Spot art (zoom of master view)
+E,Energy,E40,E41,Advanced,Propane tank,Your fuel on site,"Tank anatomy (gauge, regulator, relief valve)",Size; gauge %; supplier; regulator age,Exterior,Spot art (zoom of master view)
+E,Energy,E42,E43,Advanced,Fireplace,"The open flame, managed","Fireplace anatomy (damper, smoke shelf, flue)",Type; damper works; last swept; cap Y/N,Cutaway,Spot art (zoom of master view)
+E,Energy,E44,E45,Advanced,Chimney & flue,The exhaust tower,"Chimney cutaway (crown, cap, liner, flue)",Flue count; liner type; swept date; cap condition,Exterior,Spot art (zoom of master view)
+E,Energy,E46,E47,Professional,Transfer switch,Switch power sources safely,Transfer switch wiring concept,Manual or automatic; circuits covered; exercised date,Cutaway,Spot art (zoom of master view)
+E,Energy,E48,E49,Professional,Solar panels,Harvest your roof,System diagram (panels→inverter→panel→grid),kW size; installer; install date; production baseline,Exterior,Spot art (zoom of master view)
+E,Energy,E50,E51,Professional,Inverter,"DC to AC, explained",String vs micro inverter comparison,Model; location; fault history; firmware,Cutaway,Spot art (zoom of master view)
+E,Energy,E52,E53,Professional,Battery storage,Keep the sun for later,Backup flow diagram (what stays on),kWh; backed-up circuits; mode settings,Cutaway,Spot art (zoom of master view)
+E,Energy,E54,E55,Professional,Smart electrical panel,The breaker box gets a brain,Per-circuit monitoring diagram,Model; circuits monitored; alerts set,Cutaway,Spot art (zoom of master view)
+E,Energy,E56,E57,Professional,EV charger,Fuel at home,Level 1/2/3 comparison; circuit requirement diagram,Level; amps; circuit; installed,Cutaway,Spot art (zoom of master view)
+E,Energy,E58,E59,Professional,Small wind turbine,Power from the wind,Turbine siting and height diagram,Model; tower height; output; permits,Exterior,Spot art (zoom of master view)
+E,Energy,E60,E61,Professional,Boiler,Heat by water,Boiler loop diagram (boiler→radiators→return),Type; normal pressure; bled date; serviced,Cutaway,Spot art (zoom of master view)
+E,Energy,E62,E63,Professional,Radiant floor heating,Warmth underfoot,Radiant loop and manifold diagram,Zones; manifold location; fluid type,Cutaway,Spot art (zoom of master view)
+E,Energy,E64,E65,Professional,Geothermal heat pump,Heat from the earth,Ground loop types diagram (horizontal vs vertical),Loop type; model; fluid checked; serviced,Cutaway,Spot art (zoom of master view)
+E,Energy,E66,E67,Professional,Wood stove,Fire as a system,Stove clearances and flue diagram,Model; clearances; gasket date; flue swept,Cutaway,Spot art (zoom of master view)
+E,Energy,E68,E69,Professional,Pellet stove,Automated wood heat,"Pellet stove anatomy (hopper, auger, burn pot)",Model; pellet storage; cleaned; serviced,Cutaway,Spot art (zoom of master view)
+F,Flow,"00 (opener spread, 01 blank)",F00,Basic,Flow,Trace every drop of water and every breath of air,"Cutaway master view, ghosted; supply traced in blue, hot in red, drains in green, conditioned air in orange from equipment through ducts to registers","Mark your main shutoff, heater, and cleanouts on the trace",Overlay,Composite overlay layer
+F,Flow,F02,F03,Basic,Plumbing toolkit,Stop water and fix flow,"Plumbing tool board (plunger, wrenches, auger); emergency cap kit",Tools owned; emergency kit location; tape and caps stocked,Cutaway,Spot art (zoom of master view)
+F,Flow,F04,F05,Basic,Water Source,Know where every drop begins,Source-to-tap diagram (municipal vs well paths),Source type; provider or well info; normal pressure,Cutaway,Own whole-house layer
+F,Flow,F06,F07,Basic,Water testing,"Trust, then verify",What-to-test chart by source type,"Test dates; results (bacteria, lead, nitrates); lab used",Cutaway,Spot art (zoom of master view)
+F,Flow,F08,F09,Basic,Main supply line & meter,The artery in,Meter and main shutoff diagram; leak test via meter dial,Meter location; shutoff location; line material; leak test date,Cutaway,Spot art (zoom of master view)
+F,Flow,F10,F11,Basic,Shutoff valves,Stop water anywhere,Valve types (ball vs gate); fixture stop locations,Valve map by fixture; exercised date,Cutaway,Own whole-house layer
+F,Flow,F12,F13,Basic,Supply piping & manifolds,The house's veins,Pipe materials chart (copper/PEX/galvanized); manifold diagram,Materials; manifold location; pressure,Cutaway,Spot art (zoom of master view)
+F,Flow,F14,F15,Basic,Water heater,The hot heart,"Tank cutaway (anode, TPR valve, dip tube, sediment)",Type; brand; capacity; installed; temp setting; flushed; anode checked,Cutaway,Spot art (zoom of master view)
+F,Flow,F16,F17,Basic,Pipe insulation & freeze protection,Beat the freeze,Vulnerable pipes map; heat tape detail,Insulated runs; heat tape locations; freeze protocol,Cutaway,Own whole-house layer
+F,Flow,F18,F19,Basic,Faucets & fixtures,Anatomy of a faucet,Cartridge faucet exploded view; aerator detail,Fixture list; cartridge types; drips fixed,Cutaway,Spot art (zoom of master view)
+F,Flow,F20,F21,Basic,Toilets,The most-used machine in the house,"Tank anatomy (flapper, fill valve, flush path)",Toilet list; flapper sizes; parts replaced,Cutaway,Spot art (zoom of master view)
+F,Flow,F22,F23,Basic,Showers & tubs,Behind the wall,Shower valve anatomy; waterproofing layers,Valve types; caulk and grout date; leak checks,Cutaway,Spot art (zoom of master view)
+F,Flow,F24,F25,Basic,Hose bibs & spigots,"Outdoor water, winter-safe",Frost-free sillcock cutaway,Locations; frost-free Y/N; winterized date,Exterior,Spot art (zoom of master view)
+F,Flow,F26,F27,Basic,Drain piping,Gravity's plumbing,DWV tree diagram (fixture→stack→sewer),Material; slow drain history; snaked dates,Cutaway,Own whole-house layer
+F,Flow,F28,F29,Basic,Traps & cleanouts,The water seal explained,P-trap function diagram; cleanout locations map,Cleanout locations; trap issues,Cutaway,Spot art (zoom of master view)
+F,Flow,F30,F31,Basic,Vent stacks,Why drains need air,Venting principle diagram (trap siphon prevention),Roof vent count; blockage history,Cutaway,Own whole-house layer
+F,Flow,F32,F33,Basic,Sewer lateral,Your pipe to the street,"Lateral path diagram (house→main, ownership line)",Material; age; camera inspection date; root history,Cutaway,Own whole-house layer
+F,Flow,F34,F35,Basic,Gutters,Catch the roof's river,Gutter slope and sizing diagram,Material; size; cleaned dates; problem corners,Exterior,Spot art (zoom of master view)
+F,Flow,F36,F37,Basic,Downspouts,Carry it away,Downspout extension and burial detail,Count; discharge points; extensions Y/N,Exterior,Spot art (zoom of master view)
+F,Flow,F38,F39,Basic,Site grading & surface drainage,See how your whole lot sheds water,Positive grading detail at foundation; swale diagram,Trouble spots; regraded; swale map,Exterior,Own whole-house layer
+F,Flow,F40,F41,Basic,Central air conditioning,"Cold, explained",Refrigeration cycle diagram (condenser/evaporator),Brand; tonnage; age; refrigerant type; serviced,Cutaway,Own whole-house layer
+F,Flow,F42,F43,Basic,Thermostats & zoning,Talk to your climate,Thermostat wiring basics (C-wire); zone map,Model; schedule set; zones; batteries,Cutaway,Own whole-house layer
+F,Flow,F44,F45,Basic,Ductwork,Air's highway map,Duct layout (supply vs return); leak points,Material; known leaks; sealed and insulated,Cutaway,Own whole-house layer
+F,Flow,F46,F47,Basic,Registers & dampers,Balance the air,Damper positions diagram,Damper locations; seasonal positions,Cutaway,Spot art (zoom of master view)
+F,Flow,F48,F49,Basic,Air filters,The lungs' first defense,MERV scale chart; filter locations diagram,Sizes per unit; MERV; change schedule; last changed,Cutaway,Spot art (zoom of master view)
+F,Flow,F50,F51,Basic,Bathroom exhaust fans,Moisture's exit,Fan duct-to-exterior diagram,Locations; CFM; ducted outside Y/N; cleaned,Cutaway,Spot art (zoom of master view)
+F,Flow,F52,F53,Basic,Ceiling fans,Comfort that spins both ways,"Fan direction by season diagram (summer down, winter up)",Locations; direction switch dates; balanced,Cutaway,Spot art (zoom of master view)
+F,Flow,F54,F55,Advanced,Water pressure & PRV,Pressure in the healthy range,PRV anatomy; gauge reading diagram,Static PSI; PRV location; set point; expansion tank,Cutaway,Spot art (zoom of master view)
+F,Flow,F56,F57,Advanced,Leak detection & auto-shutoff,The system that watches the water,"Smart shutoff installation diagram (main line, sensors)",Device; sensor locations; auto-shutoff tested; alerts go to,Cutaway,Spot art (zoom of master view)
+F,Flow,F58,F59,Advanced,Well pump & pressure tank,Your private waterworks,"Well system diagram (pump, tank, pressure switch)",Pump type and depth; tank size; cut-in/out PSI; installed,Exterior,Spot art (zoom of master view)
+F,Flow,F60,F61,Advanced,Water softener,Tame hard water,"Ion exchange diagram (resin bed, brine cycle)",Model; hardness in/out; salt type; refilled,Cutaway,Spot art (zoom of master view)
+F,Flow,F62,F63,Advanced,Whole-house filtration,Filter at the front door,Filtration stages diagram,Stages; cartridge sizes; changed dates,Cutaway,Spot art (zoom of master view)
+F,Flow,F64,F65,Advanced,Drinking water filtration (RO),The purest tap in the house,RO stages diagram (sediment→carbon→membrane),Model; filter schedule; membrane date; sanitized,Cutaway,Spot art (zoom of master view)
+F,Flow,F66,F67,Advanced,Bidet & washlets,Plumbing's comfort upgrade,"Bidet seat hookup diagram (tee valve, power)",Locations; model; GFCI nearby; filter,Cutaway,Spot art (zoom of master view)
+F,Flow,F68,F69,Advanced,Septic tank,The private treatment plant,"Septic tank cutaway (baffles, scum, sludge layers)",Size; location map; pumped dates; riser Y/N,Exterior,Spot art (zoom of master view)
+F,Flow,F70,F71,Advanced,Leach field,Where water returns to earth,"Leach field cross-section (trenches, biomat)",Location map; installed; wet spots watch list,Exterior,Spot art (zoom of master view)
+F,Flow,F72,F73,Advanced,Sump pump,The basement's lifeguard,"Sump pit diagram (pump, float, check valve, discharge)",Model; tested date; battery backup Y/N; discharge point,Cutaway,Spot art (zoom of master view)
+F,Flow,F74,F75,Advanced,Rain barrels,Harvest at the downspout,"Rain barrel hookup diagram (diverter, overflow)",Barrels; capacity; mosquito screens; winter drain,Exterior,Spot art (zoom of master view)
+F,Flow,F76,F77,Advanced,Humidifier,Add moisture in winter,Bypass humidifier on-furnace diagram,Model; target %; pad changed,Cutaway,Spot art (zoom of master view)
+F,Flow,F78,F79,Advanced,Dehumidifier,Dry the damp,How dehumidification works diagram,Model; target %; drain setup; cleaned,Cutaway,Spot art (zoom of master view)
+F,Flow,F80,F81,Advanced,Heat pump,Heat that runs both ways,Reversing cycle diagram (heat vs cool mode),Model; age; backup heat type; defrost notes,Exterior,Spot art (zoom of master view)
+F,Flow,F82,F83,Professional,Cistern / rain harvesting,Store the sky,Harvest system diagram (roof→first flush→tank),Capacity; uses; screens cleaned,Exterior,Spot art (zoom of master view)
+F,Flow,F84,F85,Professional,UV treatment,Light that disinfects,UV chamber diagram,Model; lamp replaced; sleeve cleaned,Cutaway,Spot art (zoom of master view)
+F,Flow,F86,F87,Professional,Recirculation loop,"Hot water, instantly","Recirculation loop diagram (pump, return line)",Pump model; timer settings,Cutaway,Spot art (zoom of master view)
+F,Flow,F88,F89,Professional,Solar thermal hot water,Sun-heated water,Solar thermal loop (collector→exchanger→tank),Collector size; glycol checked; serviced,Cutaway,Spot art (zoom of master view)
+F,Flow,F90,F91,Professional,Greywater reuse,Use water twice,Greywater diverter diagram (laundry→landscape),System type; what's diverted; permit,Exterior,Spot art (zoom of master view)
+F,Flow,F92,F93,Professional,Sewage ejector pump,Pumping uphill when gravity can't,"Ejector pit diagram (pump, vent, check valve)",Model; basin location; tested; alarm Y/N,Cutaway,Spot art (zoom of master view)
+F,Flow,F94,F95,Professional,French drains,Drainage you can't see,"French drain cross-section (fabric, gravel, pipe)",Runs map; outlets; flushed,Exterior,Spot art (zoom of master view)
+F,Flow,F96,F97,Professional,Mini-splits,"Zoned comfort, no ducts","Mini-split anatomy (head, line set, condenser)",Zones and heads; model; filters washed,Cutaway,Spot art (zoom of master view)
+F,Flow,F98,F99,Professional,Window units,Cooling one room at a time,BTU sizing chart by room size,Units; BTUs; rooms; storage location,Cutaway,Spot art (zoom of master view)
+F,Flow,F100,F101,Professional,Whole-house fan,Cool with the evening,Airflow diagram (windows→attic),Model; CFM; winter cover; run rules,Cutaway,Spot art (zoom of master view)
+F,Flow,F102,F103,Professional,ERV / HRV ventilation,Fresh air without losing heat,Heat-exchange core diagram,Model; CFM; cores cleaned; filters,Cutaway,Spot art (zoom of master view)
+G,Guard,"00 (opener spread, 01 blank)",G00,Basic,Guard,See every layer of protection at its post,"Cutaway + exterior composite, ghosted; locks, detectors, cameras, extinguishers, and escape routes marked at their stations",Mark your device locations; identify uncovered zones,Overlay,Composite overlay layer
+G,Guard,G02,G03,Basic,Emergency & safety toolkit,Grab-able tools for the worst day,"Emergency station diagram (flashlights, pry bar, shutoff tool)",Station location; contents; checked date,Cutaway,Spot art (zoom of master view)
+G,Guard,G04,G05,Basic,Door locks & deadbolts,Understand what makes a door secure,"Deadbolt anatomy (bolt, strike plate, reinforcement)",Doors and lock types; rekeyed date; spare key plan,Cutaway,Spot art (zoom of master view)
+G,Guard,G06,G07,Basic,Window locks,"The most common entry, closed",Window lock types chart,Locks checked per window; reinforcements,Cutaway,Spot art (zoom of master view)
+G,Guard,G08,G09,Basic,Surveillance cameras,See your property's blind spots,Camera coverage map of the property,"Cameras (location, type); app; blind spots",Exterior,Nested layer in G00 + spot art
+G,Guard,G10,G11,Basic,Video recording & storage,Footage that's there when needed,Local vs cloud storage diagram,Retention days; storage type; checked date,Cutaway,Spot art (zoom of master view)
+G,Guard,G12,G13,Basic,Doorbell camera,"The front door, always answered","Doorbell wiring (transformer, chime) diagram",Model; wired or battery; storage plan,Exterior,Spot art (zoom of master view)
+G,Guard,G14,G15,Basic,Smoke detectors,Three minutes to escape,Placement code diagram (per floor and bedroom); ionization vs photoelectric chart,Locations; types; battery date; replace-by year,Cutaway,G00 composite view + spot art
+G,Guard,G16,G17,Basic,CO detectors & air monitoring,"The invisible threat, detected",CO sources in a home diagram,Locations; replace-by dates; alarm response posted; monitors; normal readings; alert thresholds,Cutaway,G00 composite view + spot art
+G,Guard,G18,G19,Basic,Fire extinguishers,The first sixty seconds of a fire,PASS technique illustration; ABC class chart,Locations; classes; gauge checks; expiry,Cutaway,G00 composite view + spot art
+G,Guard,G20,G21,Basic,Escape Routes,Two ways out of everywhere,Floor plan with escape arrows per room,Routes per room; meeting point; ladder locations; drill date,Cutaway,Own whole-house layer
+G,Guard,G22,G23,Basic,Emergency kit,"72 hours, ready","Kit contents diagram (water, food, light, meds)",Location; contents date; rotation due,Cutaway,Spot art (zoom of master view)
+G,Guard,G24,G25,Basic,Storm preparedness,Before the sky turns,Storm timeline (watch→warning→shelter),Shelter spot; supplies; trees trimmed; shutters,Cutaway,Spot art (zoom of master view)
+G,Guard,G26,G27,Basic,Power outage plan,"Dark house, calm family","Outage decision tree (fridge rules, generator start)",Flashlight spots; fridge rules; generator steps,Cutaway,Spot art (zoom of master view)
+G,Guard,G28,G29,Basic,Evacuation plan,"Leave fast, leave right",Go-bag contents; evacuation route map,Routes; go-bag location; document grab list; meeting point,Cutaway,Own whole-house layer
+G,Guard,G30,G31,Advanced,Alarm system,Know your system end to end,Alarm architecture (sensors→panel→monitoring),Provider; code holders; tested; monitoring number,Cutaway,Spot art (zoom of master view)
+G,Guard,G32,G33,Advanced,Motion detectors,Sensing intelligently,PIR coverage cone diagram; pet-immune zones,Locations; sensitivity; tested,Cutaway,Spot art (zoom of master view)
+G,Guard,G34,G35,Advanced,Childproofing,A house safe at toddler height,"Hazard map at child height (outlets, cords, stairs, anchors)",Gates; anchored furniture; cabinet locks; outlet covers,Cutaway,Spot art (zoom of master view)
+G,Guard,G36,G37,Advanced,Radon mitigation,The basement's invisible gas,Sub-slab depressurization diagram,Last test result; system Y/N; fan check,Cutaway,Spot art (zoom of master view)
+G,Guard,G38,G39,Professional,Safe,Protect the irreplaceable,Fire rating vs burglary rating chart,Rating; location; bolted Y/N; contents list location,Cutaway,Spot art (zoom of master view)
+G,Guard,G40,G41,Professional,Driveway alarm & sensors,Know when anyone arrives,Sensor beam placement diagram,Sensors; range; chime locations,Exterior,Spot art (zoom of master view)
+G,Guard,G42,G43,Professional,Fire sprinkler system,The always-on firefighter,Sprinkler head anatomy; system riser diagram,System type; valve location; inspection date,Cutaway,Own whole-house layer
+G,Guard,G44,G45,Professional,Storm shelter / safe room,The room that outlasts the storm,Safe room construction standards diagram,Location; rating; supplies inside; family drill,Exterior,Spot art (zoom of master view)
+G,Guard,G46,G47,Professional,Lightning rods & grounding,Take the strike safely,Lightning protection path (rod→conductor→ground),System Y/N; components; inspected,Exterior,Spot art (zoom of master view)
+H,Home,"00 (opener spread, 01 blank)",H00,Basic,Home,See where daily life runs through the machines,"Cutaway master view, ghosted; kitchen, laundry, food storage, and waste paths highlighted as activity zones",Mark your appliance locations and waste flow,Overlay,Composite overlay layer
+H,Home,H02,H03,Basic,Kitchen & cleaning toolkit,The machines' support crew,Cleaning caddy and appliance tool kit illustration,"Supplies; specialty tools (coil brush, drain snake); storage",Cutaway,Spot art (zoom of master view)
+H,Home,H04,H05,Basic,Refrigerator,Cold storage as a system,Refrigeration cycle diagram; zone temperature map (where food goes),Brand/model; temps set; coils cleaned; filter changed,Cutaway,Spot art (zoom of master view)
+H,Home,H06,H07,Basic,Range & oven,The most-used machine in the kitchen,"Range anatomy (burners, igniters, oven elements)",Fuel type; brand and model; self-clean rules; serviced,Cutaway,Spot art (zoom of master view)
+H,Home,H08,H09,Basic,Kitchen range hood,Capture the cooking air,Ducted vs recirculating diagram,Type; CFM; filters degreased,Cutaway,Spot art (zoom of master view)
+H,Home,H10,H11,Basic,Dishwasher,Clean dishes by system,"Dishwasher anatomy (spray arms, filter, drain loop)",Brand and model; filter cleaned; air gap Y/N; hose age,Cutaway,Spot art (zoom of master view)
+H,Home,H12,H13,Basic,Garbage disposal,The drain's grinder,"Disposal cutaway (impellers, reset, hex socket)",Model; never-list posted; unjam tool location,Cutaway,Spot art (zoom of master view)
+H,Home,H14,H15,Basic,Pantry,Rotation beats expiration,FIFO rotation diagram; storage life chart,Layout zones; staples list; pest checks,Cutaway,Spot art (zoom of master view)
+H,Home,H16,H17,Basic,Washer,"The wash, demystified","Washer anatomy (drum, pump, hoses)",Brand/model; hose age; gasket cleaned; filter,Cutaway,Spot art (zoom of master view)
+H,Home,H18,H19,Basic,Dryer,"Heat, tumble, exhaust","Dryer anatomy (element, belt, lint path)",Brand/model; vent cleaned; lint habits,Cutaway,Spot art (zoom of master view)
+H,Home,H20,H21,Basic,Dryer vent,The fire risk you can clean,Vent path diagram (dryer→exterior flap),Route length; material; cleaned date,Cutaway,Spot art (zoom of master view)
+H,Home,H22,H23,Basic,Laundry sink & drain,The utility workhorse,Standpipe and trap diagram,Sink type; trap cleaned; faucet,Cutaway,Spot art (zoom of master view)
+H,Home,H24,H25,Basic,Ironing & care,Care for what you wear,Fabric temperature chart,Equipment; descaled; station location,Cutaway,Spot art (zoom of master view)
+H,Home,H26,H27,Basic,Trash collection,"Waste out, on schedule","Collection logistics map (cans, pickup point)",Pickup days; can sizes; rules,Exterior,Spot art (zoom of master view)
+H,Home,H28,H29,Basic,Recycling,Sort it right,Local sorting rules chart,Accepted items; schedule; contamination notes,Cutaway,Spot art (zoom of master view)
+H,Home,H30,H31,Basic,Pets,The house systems your animals use,"Pet infrastructure map (doors, fence, feeding, waste)",Pets; vet contact; containment; pet door locations; licenses,Cutaway,Own whole-house layer
+H,Home,H32,H33,Advanced,Freezer (standalone/chest),"Deep cold, organized",Chest vs upright airflow diagram,Type; temp; defrosted; inventory location,Cutaway,Spot art (zoom of master view)
+H,Home,H34,H35,Advanced,Canning,"Preserve safely, by science",Water bath vs pressure canning decision chart,Equipment; gauge tested; recipe log location,Cutaway,Spot art (zoom of master view)
+H,Home,H36,H37,Advanced,Houseplants,The indoor garden,Window light zones map of the house,Plants; watering schedule; toxic-to-pets flags,Cutaway,Spot art (zoom of master view)
+H,Home,H38,H39,Advanced,Robot vacuum & floor care,Floors on autopilot,Robot navigation and no-go zones map,Model; schedule; bin and filter care; no-go zones,Cutaway,Spot art (zoom of master view)
+H,Home,H40,H41,Advanced,Aquarium,A sealed ecosystem indoors,Nitrogen cycle diagram; equipment loop,Tank size; livestock; water change schedule; test log,Cutaway,Spot art (zoom of master view)
+H,Home,H42,H43,Professional,Root cellar,Store food the old way,Root cellar venting and humidity diagram,Location; temp/humidity range; what-stores-well log,Cutaway,Spot art (zoom of master view)
+H,Home,H44,H45,Professional,Smoking & curing,Flavor and preservation by smoke,Cold vs hot smoking temperature chart,Smoker type; cures used; food safety notes,Cutaway,Spot art (zoom of master view)
+H,Home,H46,H47,Professional,Drying & dehydrating,"Remove water, keep the food",Dehydrator airflow diagram,Equipment; dried goods storage; conditioning notes,Cutaway,Spot art (zoom of master view)
+H,Home,H48,H49,Professional,Fermenting,Living preservation,"Fermentation vessel anatomy (airlock, brine line)",Vessels; active ferments log; troubleshooting notes,Cutaway,Spot art (zoom of master view)
+H,Home,H50,H51,Professional,Vacuum sealing,Air is the enemy,Sealer types comparison,Model; bag inventory; gasket checked,Cutaway,Spot art (zoom of master view)
+H,Home,H52,H53,Professional,Specialty refrigeration (wine/beverage/kegerator),Cold for connoisseurs,Wine temperature zones chart,Units; temps; condenser cleaned,Cutaway,Spot art (zoom of master view)
+H,Home,H54,H55,Professional,Central vacuum,Suction in the walls,Central vac piping diagram,Power unit location; inlets; canister emptied,Cutaway,Spot art (zoom of master view)
+H,Home,H56,H57,Professional,Laundry chute,Gravity does the laundry,Chute routing and fire-door diagram,Route; door latches; cleaned,Cutaway,Spot art (zoom of master view)
+H,Home,H58,H59,Professional,Dumbwaiter,The smallest elevator,"Dumbwaiter mechanism (cables, guides)",Capacity; inspected; lubricated,Cutaway,Spot art (zoom of master view)
+H,Home,H60,H61,Professional,Home gym,Train where you live,Floor load and layout diagram,Equipment; flooring; mirrors anchored,Cutaway,Spot art (zoom of master view)
+I,Information,"00 (opener spread, 01 blank)",I00,Basic,Information,Trace the invisible network that ties it all together,"Cutaway master view, ghosted; data lines traced from service entry through router to every device; wireless coverage shading","Mark your service entry, router location, and dead zones",Overlay,Composite overlay layer
+I,Information,I02,I03,Basic,Network toolkit,Diagnose the invisible,"Network kit board (cable tester, crimper, spare cables)",Items owned; spare hardware; labeling system,Cutaway,Spot art (zoom of master view)
+I,Information,I04,I05,Basic,Internet service & modem,Where the internet enters,Service entry diagram (line→modem→router),ISP; plan speed; modem model; account #,Cutaway,Spot art (zoom of master view)
+I,Information,I06,I07,Basic,Router & WiFi,"Your airwaves, mapped",WiFi coverage heat map of the house,Router model; SSID; password location; dead zones,Cutaway,Own whole-house layer
+I,Information,I08,I09,Basic,Televisions & media devices,The screens and their feeds,AV connection diagram (sources to TV to sound),TVs; mounts secured; devices; remotes and apps,Cutaway,Spot art (zoom of master view)
+I,Information,I10,I11,Basic,Cable TV wiring,The coax tree,Splitter tree diagram (signal loss per split),Outlets; splitter locations; provider,Cutaway,Own whole-house layer
+I,Information,I12,I13,Advanced,Home office & tech,The room work lives in,Ergonomics plus power and data diagram,Equipment; backup power; network drops; ergonomic setup,Cutaway,Spot art (zoom of master view)
+I,Information,I14,I15,Advanced,Ethernet wiring,The wired backbone,Home network topology diagram,Jack locations; cable category; patch panel location,Cutaway,Spot art (zoom of master view)
+I,Information,I16,I17,Advanced,Satellite internet (Starlink),Broadband from orbit,Dish sightline and obstruction diagram,Provider; dish location; mount; speeds; cable route,Exterior,Spot art (zoom of master view)
+I,Information,I18,I19,Advanced,Smart home hub,One brain for the house,"Protocol diagram (WiFi, Zigbee, Z-Wave, Matter)",Hub model; protocol; device count,Cutaway,Own whole-house layer
+I,Information,I20,I21,Advanced,Smart thermostats,Climate that learns,Smart thermostat wiring (C-wire) diagram,Model; schedules; sensors paired,Cutaway,Spot art (zoom of master view)
+I,Information,I22,I23,Advanced,Smart locks,Keys become codes,Smart lock mechanism diagram,Doors; code log; batteries,Cutaway,Spot art (zoom of master view)
+I,Information,I24,I25,Advanced,Smart lighting,Light on command,Smart switch vs smart bulb decision diagram,Devices; scenes set; hub link,Cutaway,Spot art (zoom of master view)
+I,Information,I26,I27,Advanced,Voice assistants,Speak to the house,Voice ecosystem diagram (assistant→hub→devices),Devices; rooms; privacy mute policy,Cutaway,Spot art (zoom of master view)
+I,Information,I28,I29,Advanced,Digital accounts & passwords,The home's digital keyring,"Account map (utilities, devices, services)",Password manager; shared access; recovery contacts,Document Desk,Spot art (zoom of master view)
+I,Information,I30,I31,Professional,Smart sensors,The house that notices,"Sensor placement map (leak, motion, door)",Sensors; locations; batteries; automations,Cutaway,Spot art (zoom of master view)
+I,Information,I32,I33,Professional,Antenna (OTA),Free TV from the air,Antenna types and range chart,Type; channels received; aim direction,Exterior,Spot art (zoom of master view)
+I,Information,I34,I35,Professional,Satellite dish,Signal from space,Dish aiming diagram (azimuth/elevation),Dish location; receivers; provider,Exterior,Spot art (zoom of master view)
+I,Information,I36,I37,Professional,Cellular signal booster,Bars in every room,"Booster system diagram (outside antenna, amp, inside)",Model; carrier bands; antenna locations,Cutaway,Spot art (zoom of master view)
+I,Information,I38,I39,Professional,Home server / NAS,The family's private cloud,"Backup topology diagram (devices, NAS, offsite)",Model; capacity; backup schedule; offsite copy,Cutaway,Spot art (zoom of master view)
+I,Information,I40,I41,Professional,Weather station,Your yard's own forecast,"Station siting diagram (height, exposure)",Model; sensors; data service; calibrated,Exterior,Spot art (zoom of master view)
+I,Information,I42,I43,Professional,Home theater & media room,The room built for the screen,Speaker placement diagram (5.1 and 7.1),Equipment; calibrated; lighting control,Cutaway,Spot art (zoom of master view)
+I,Information,I44,I45,Professional,Intercom,Talk through the walls,Intercom wiring diagram,System type; stations; working Y/N,Cutaway,Spot art (zoom of master view)
+X,Extension,"00 (opener spread, 01 blank)",X00,Basic,Extension,One place where every system meets — the pages you'll open most,"Exterior + cutaway composite, ghosted, with callout lines to each dashboard spread (shutoffs, contacts, schedule)",How the appendix cross-references part codes throughout the book,Overlay,Composite overlay layer
+X,Extension,X02,X03,Basic,Master shutoff map,"Stop water, gas, and power in seconds","Floor plan marking water main, gas valve, main breaker",Water main location; gas valve location; main breaker location; tools needed,Document Desk,Own whole-house layer
+X,Extension,X04,X05,Basic,Emergency contacts,Every number when seconds matter,One-page contact card layout,Utility emergency lines; nearest hospital; neighbors; family; key holders,Document Desk,Spot art (zoom of master view)
+X,Extension,X06,X07,Basic,Master utility account list,Every account on one spread,Utility connection points map of the house,Provider; account #; monthly average; autopay Y/N; contact (per utility),Document Desk,Spot art (zoom of master view)
+X,Extension,X08,X09,Basic,Master contractor directory,The right pro in one glance,Trades wheel (which trade fixes which problem),Trade; name; phone; used for; rating; notes,Document Desk,Spot art (zoom of master view)
+X,Extension,X10,X11,Basic,Master warranty index,Never let a warranty lapse unseen,Sample master index table layout,Item; brand; purchase date; warranty end; registered Y/N; document location,Document Desk,Spot art (zoom of master view)
+X,Extension,X12,X13,Basic,Maintenance schedule,The rhythm of care for the whole house,Annual task wheel by month and system,Task; frequency; last done; next due,Document Desk,Spot art (zoom of master view)
+X,Extension,X14,X15,Basic,Maintenance budget,Know what upkeep really costs,Stacked bar of annual costs by system; reserve-fund gauge,Annual budget; reserve balance; actuals by system,Document Desk,Spot art (zoom of master view)
+X,Extension,X16,X17,Basic,Spring maintenance checklist,One spread that runs your whole spring,Annual calendar wheel with spring tasks highlighted by system,Tasks completed; dates; findings; costs,Document Desk,Spot art (zoom of master view)
+X,Extension,X18,X19,Basic,Summer maintenance checklist,One spread that runs your whole summer,Annual calendar wheel with summer tasks highlighted by system,Tasks completed; dates; findings; costs,Document Desk,Spot art (zoom of master view)
+X,Extension,X20,X21,Basic,Fall maintenance checklist,One spread that runs your whole fall,Annual calendar wheel with fall tasks highlighted by system,Tasks completed; dates; findings; costs,Document Desk,Spot art (zoom of master view)
+X,Extension,X22,X23,Basic,Winter maintenance checklist,One spread that runs your whole winter,Annual calendar wheel with winter tasks highlighted by system,Tasks completed; dates; findings; costs,Document Desk,Spot art (zoom of master view)
+X,Extension,X24,X25,Basic,Glossary of trades & terms,"Speak plumber, electrician, and roofer",Illustrated mini-glossary spreads (the 100 words contractors use),Terms learned; your own notes and local terms,Document Desk,Spot art (zoom of master view)
