@@ -37,7 +37,22 @@ Bright blue is reserved as an attention-catching labeling language rather than a
 
 When blue is being used as the annotation standard, avoid allowing large diagram elements to compete with it.
 
-Exact production color values should be locked here once finalized.
+### Annotation blue versus system color coding
+
+There is an unresolved tension between two possible uses of color, and it should be settled deliberately rather than page by page:
+
+1. **Blue as annotation.** Blue means *this is a label*, regardless of subject. This is the current standard.
+2. **Color as subject.** Each system owns a hue — so a reader flipping pages recognizes a system by color alone.
+
+These can coexist only if no system is assigned annotation blue. A scheme that colors water blue would collide directly with the current standard and make labels ambiguous on exactly the pages where labels matter most.
+
+Until the author decides:
+
+- annotation blue holds;
+- do not assign blue to a system;
+- do not introduce a per-system palette on individual pages ahead of a book-wide decision.
+
+Exact production color values, and the outcome of this decision, should be locked here once finalized.
 
 ## Hierarchy rule
 

@@ -85,6 +85,29 @@ For example:
 
 A prompt may implement these rules, but the prompt itself is not the source of truth for book design.
 
+## Source artwork and layer assets
+
+Diagram pages are produced from a small number of recurring base views rather than from unrelated one-off drawings. The base view and artwork source for each page are recorded in `toc.csv`.
+
+Principles:
+
+- A recurring house view keeps identical base geometry wherever it is reused, so the reader builds spatial familiarity across pages.
+- Spot art is derived from the master view rather than drawn independently, so a zoomed detail and the whole-house view agree with each other.
+- A composite overlay page combines system layers that appear separately elsewhere.
+
+### Asset conventions still to be locked
+
+The following are genuinely unowned today and should be recorded in this section once the author decides them. Do not invent them:
+
+- source file organization and naming;
+- layer naming and identifier scheme, and how a layer maps to a page code;
+- how a layer identifier survives reordering required for correct rendering;
+- export format, resolution, and effective PPI;
+- minimum printed line weights;
+- production color values.
+
+Until they are locked, artwork decisions made per page should be recorded in `toc.csv` rather than assumed to be general rules.
+
 ## Source of truth
 
 The required subject, spread goal, diagram-page content, base view, and artwork source for each page are defined in `toc.csv`.

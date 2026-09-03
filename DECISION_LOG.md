@@ -6,6 +6,74 @@ Keep entries short. Detailed rules belong in their canonical files.
 
 ---
 
+## 2026-09-02 — Page codes are part letter + zero-padded sequence
+
+**Decision:** The page-code rule is **part letter + zero-padded sequence**, normally two digits, continuing to three where a part runs past 99.
+
+**Supersedes:** the "two-digit sequence" wording in `PAGE_CODES.md`.
+
+**Reason:** Parts C and F already contain `C100`, `C101`, `F100`–`F103`. Widening the rule preserves existing codes; renumbering would have violated code permanence for cosmetic reasons.
+
+---
+
+## 2026-09-02 — "Part" replaces "section" as the structural term
+
+**Decision:** The book's lettered top-level divisions are **parts**. *Section* is retired for this concept.
+
+**Reason:** `toc.csv` uses Part / Part Name, while `PAGE_CODES.md` and `Instructions_for_AI_Tools.md` said *section*. One term, matching the canonical database.
+
+---
+
+## 2026-09-02 — Part X (Extension) defined
+
+**Decision:** Part `X`, **Extension**, is the part holding cross-system rollups, seasonal checklists, and general reference — material belonging to the property as a whole rather than to any single system. Its rollup pages summarize facts owned by system spreads; they do not replace them.
+
+**Reason:** Part `X` existed in `toc.csv` with no definition in any Markdown file, leaving AI tools no basis for deciding what belongs there.
+
+---
+
+## 2026-09-02 — Front and back matter get a canonical owner
+
+**Decision:** New module `FRONT_BACK_MATTER.md` owns all pages outside the lettered parts.
+
+**Reason:** Title, copyright, limitations, contents, how-to-use, the contractor explainer, glossary, index, and closing pages were owned by no file. `toc.csv` contains no rows for them.
+
+---
+
+## 2026-09-02 — TOC gains a Role column; opener codes normalized
+
+**Decision:** `toc.csv` gains a **Role** column, positioned after `Part Name`, with values `Spread` and `Part opener`. Opener rows now carry clean codes `n00` and `n01` in the existing two code columns.
+
+**Supersedes:** the free-text value `00 (opener spread, 01 blank)` previously stored in the `Form Page (even, left)` column on ten rows.
+
+**Reason:** Free text in a code column defeated machine parsing of every page code. All existing column names are unchanged, so nothing downstream that reads columns by name is affected.
+
+---
+
+## 2026-09-02 — Annotation blue holds; per-system color deferred
+
+**Decision:** Bright blue remains reserved for annotation. No system may be assigned blue, and no per-system palette is introduced on individual pages before a book-wide decision.
+
+**Reason:** A subject-color scheme that colored water blue would collide with the annotation standard and make labels ambiguous.
+
+---
+
+## 2026-09-02 — Commercial decisions excluded from the repository
+
+**Decision:** Pricing, royalties, print-cost modeling, channels, gift or bulk packaging, digital companion products, and series plans are deliberately not recorded in this repository.
+
+**Reason:** Their absence was being read as a gap. It is a boundary. Figures in older material are obsolete and must not be imported.
+
+---
+
+## 2026-09-02 — RENAME.md marked superseded in place
+
+**Decision:** `RENAME.md` keeps its filename and location but now opens with a banner listing exactly which of its specifications are obsolete.
+
+**Reason:** The file still carried the 5 × 8 trim, the subject-prefix form IDs, and a page plan that conflicts with `toc.csv`, with nothing in the file itself saying so. Its strategic reasoning is still worth keeping.
+
+---
+
 ## 2026-09-02 — Repository becomes modular AI knowledge base
 
 **Decision:** `Instructions_for_AI_Tools.md` is the master entry point for AI tools. Project knowledge is divided into small authoritative modules with minimal duplication.

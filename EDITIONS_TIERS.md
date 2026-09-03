@@ -39,6 +39,20 @@ The precise commercial edition strategy, final page counts, and publication pack
 
 Do not infer that every tier must necessarily be released as a separate KDP product until the author explicitly confirms that decision.
 
+## Commercial decisions are deliberately out of repository scope
+
+Pricing, royalty assumptions, print-cost modeling, sales channels, bulk or gift-channel packaging, digital companion products, and any future series titles are **not recorded anywhere in this repository at this time.**
+
+This is intentional, not an omission. Treat their absence as a deliberate boundary rather than a gap to be filled, and do not import figures from older project material, which is obsolete.
+
+If a commercial constraint later needs to drive production work — a hard maximum page count being the likeliest case — record it in the canonical file that owns the affected production decision rather than creating a marketing document.
+
+## Interaction with page count
+
+Tier assignment determines how long each edition is, so tier decisions and the unlocked KDP page-count constraints in `KDP_PRINT_SPEC.md` are linked.
+
+Current tier totals live in `toc.csv` and should be counted from it rather than quoted from memory, because they move whenever a tier is reassigned.
+
 ## Source of truth
 
 The tier of each existing page/spread belongs exclusively in `toc.csv`.

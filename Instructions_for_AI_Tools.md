@@ -59,11 +59,12 @@ The intended root-level knowledge structure is:
 - `PAGE_CODES.md` — permanent page-code and cross-reference conventions.
 - `EDITIONS_TIERS.md` — Basic, Advanced, and Professional edition/tier rules.
 - `CONTENT_SCOPE_SAFETY.md` — content boundaries, safe-DIY limits, professional handoff, and national applicability.
+- `FRONT_BACK_MATTER.md` — pages outside the lettered parts: title, copyright, contents, how-to-use, contractor explainer, index, and closing pages.
 - `TERMINOLOGY.md` — canonical vocabulary and naming conventions.
 - `PRODUCTION_WORKFLOW.md` — workflow from TOC entry through writing, diagrams, forms, review, layout, and print.
 - `DECISION_LOG.md` — dated record of major project decisions and superseded choices.
 
-Do not create separate section files merely to restate content already defined in `toc.csv`. Page-level scope belongs in `toc.csv` unless the author explicitly decides otherwise.
+Do not create a separate file per book part merely to restate content already defined in `toc.csv`. Page-level scope belongs in `toc.csv` unless the author explicitly decides otherwise.
 
 ## 5. Single-source rule
 
@@ -86,7 +87,11 @@ Until superseded by an explicit author decision and recorded in the appropriate 
 - Production target is **Amazon KDP**.
 - Current trim size is **8 × 10 inches, portrait**.
 - `toc.csv` is the authoritative current structure of the book.
+- The book's top-level divisions are called **parts**, not sections.
+- Parts `A` through `I` cover the house and the ownership system. Part `X`, **Extension**, holds cross-system rollups and general reference.
+- Page codes are **part letter + zero-padded sequence**, with even numbers on the left as forms and odd numbers on the right as guides. See `PAGE_CODES.md`.
 - Older references to **5 × 8 inches** are obsolete.
+- Older subject-prefix form identifiers such as `E-1` or `ID-3` are obsolete.
 
 ## 7. Working with the TOC
 
@@ -94,7 +99,9 @@ Treat `toc.csv` as a database, not as prose documentation.
 
 Do not manually reproduce its full contents in Markdown files. When a page changes, update the corresponding TOC row rather than creating another independent page description elsewhere.
 
-When answering questions about book structure, page codes, page order, tiers, form fields, diagram content, or spread goals, inspect the current `toc.csv` rather than relying on memory.
+When answering questions about book structure, page codes, page order, roles, tiers, form fields, diagram content, or spread goals, inspect the current `toc.csv` rather than relying on memory.
+
+Counts derived from the TOC — spreads per part, pages per tier, totals — change whenever a row is edited. Count them from the file at the time of the question. Do not quote a total from an earlier conversation or an older document.
 
 ## 8. Changes and decisions
 
@@ -109,7 +116,9 @@ If no existing canonical file is appropriate, recommend a new small module befor
 
 ## 9. Historical material
 
-Documents such as the former `RENAME.md` and imported project briefs may contain valuable reasoning but can also contain obsolete specifications.
+Documents such as `RENAME.md` and imported project briefs may contain valuable reasoning but also contain obsolete specifications.
+
+`RENAME.md` is retained for its reasoning only. Its trim size, form-identifier scheme, page plan, page counts, and commercial figures are all superseded.
 
 Use historical material to recover intent and rationale, not as current authority when it conflicts with the hierarchy above.
 

@@ -46,11 +46,19 @@ Some subjects may require:
 
 Any exception must preserve the overall page-parity system so later forms still land on even/left pages.
 
-## Section openers
+## Part openers
 
-Section opener behavior is defined by the current TOC.
+Each part opens with a spread coded `n00` / `n01`, where `n00` is the even / left page carrying the opener composite and `n01` is the odd / right page, left intentionally blank.
+
+Opener rows are identified by `Part opener` in the `Role` column of `toc.csv`. All other rows are `Spread`.
+
+The opener is the only permitted exception to the form-left rule, because it carries no form.
 
 Do not independently invent opener page numbers or reorder pages outside `toc.csv`.
+
+## Front and back matter
+
+Pages outside the lettered parts — title, copyright, contents, how-to-use, the contractor explainer, index, and closing pages — are governed by `FRONT_BACK_MATTER.md`.
 
 ## Cross-spread references
 

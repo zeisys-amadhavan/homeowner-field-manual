@@ -71,3 +71,11 @@ Codes and standards may help explain why something exists, but the book should n
 The book improves the homeowner's ability to understand and document their house.
 
 It does not substitute for inspection, engineering, legal, insurance, tax, trade, or other professional advice where those services are appropriate.
+
+## Where the general limitation statement lives
+
+This file owns the *content posture* described above.
+
+The printed page that states the book's limitations to the reader is front matter, and its placement and existence are owned by `FRONT_BACK_MATTER.md`.
+
+A general statement in the front matter does not license vague or hedged writing on individual pages. Page-level safety language should still identify the specific hazard and the specific boundary, as described above.

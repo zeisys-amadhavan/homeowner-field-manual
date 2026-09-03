@@ -11,6 +11,7 @@ Every page/spread begins with its current row in `toc.csv`.
 Confirm:
 
 - part;
+- role (`Spread` or `Part opener`);
 - form-page code;
 - diagram-page code;
 - tier;
@@ -63,6 +64,7 @@ Before finalizing, check the relevant modules:
 - `DIAGRAM_RULES.md`
 - `FORM_RULES.md`
 - `CONTENT_SCOPE_SAFETY.md`
+- `FRONT_BACK_MATTER.md` (only when working on pages outside the lettered parts)
 
 Read only what is relevant to the current task.
 

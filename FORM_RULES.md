@@ -67,6 +67,38 @@ Prefer:
 - clearly separated location fields;
 - generous notes space only where variable conditions genuinely require it.
 
+## Dating and currency
+
+Every form carries a date field recording when it was last updated.
+
+A form without a date cannot be trusted years later, because the reader cannot tell whether it describes the current house or a previous condition.
+
+## Keeping a form current
+
+Systems get replaced, and a form that was accurate on the day it was filled in will eventually describe equipment that no longer exists.
+
+The book handles this by treating superseded entries as history rather than error:
+
+- The reader strikes through the outdated entry rather than erasing it, and dates the strike.
+- The replacement is recorded in the space provided, or on a fresh copy of the form.
+- Where a form has room for only one generation of a system, it should provide a short replacement history line so the sequence survives.
+
+The design consequence: **a form should be legible after it has been corrected.** Do not design layouts so tight that a struck-through line destroys the page.
+
+The completed book is a record of system generations, not a snapshot.
+
+## Paste-in and photo areas
+
+Some forms benefit from a physical attachment — a photograph, a paint chip, a label image, a fragment of a document.
+
+Where a form provides one:
+
+- The area is explicitly drawn with corner marks, not implied by blank space.
+- Its usable dimensions are stated on the page.
+- The surrounding fields remain complete without the attachment, so an unfilled paste-in area does not create a gap in the record.
+
+Do not add paste-in areas by default. They are for cases where an image carries information no field can.
+
 ## Records versus storage
 
 The book records standardized summaries and references.

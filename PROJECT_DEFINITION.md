@@ -84,8 +84,23 @@ The book is:
 
 The book may teach enough to recognize, describe, locate, document, monitor, and safely respond to a system without attempting to replace qualified professionals.
 
+## Structural principle
+
+The book is divided into lettered **parts**.
+
+Parts `A` through `I` are organized the way a homeowner encounters the property rather than the way a trade would classify it. Where professional taxonomy and homeowner intuition disagree, homeowner usability generally wins.
+
+Part `X`, **Extension**, is different in kind. It holds material that belongs to the property as a whole rather than to any single system: master rollups that consolidate facts recorded elsewhere in the book, seasonal checklists that cut across every part, and general reference. Extension is deliberately last, and its rollup pages summarize rather than replace the system pages that own each fact.
+
+The distinction matters when deciding where new content belongs:
+
+- Information about one system goes on that system's spread.
+- A consolidated view across many systems goes in Extension.
+
 ## Canonical structure
 
-The current page-by-page structure, section assignments, tiers, form fields, spread goals, and diagram content are defined only in `toc.csv`.
+The current page-by-page structure, part assignments, roles, tiers, form fields, spread goals, and diagram content are defined only in `toc.csv`.
+
+Front matter and back matter are defined in `FRONT_BACK_MATTER.md`.
 
 Do not duplicate the TOC here.

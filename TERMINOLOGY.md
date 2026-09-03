@@ -6,6 +6,30 @@ Add terms only when inconsistent naming would create confusion.
 
 ## Book terms
 
+### Part
+A lettered top-level division of the book, such as `A` Admin or `F` Flow. **Part** is the preferred term throughout the project. Do not use *section* for this concept.
+
+### Part opener
+The spread that begins a part, coded `n00` / `n01`. Defined in `PAGE_CODES.md`.
+
+### Extension part
+Part `X`, which holds cross-system rollups and reference material belonging to no single system. See `PROJECT_DEFINITION.md`.
+
+### Role
+The `toc.csv` field distinguishing a normal `Spread` from a `Part opener`.
+
+### Item
+The `toc.csv` field naming the subject a spread covers.
+
+### Base view
+The `toc.csv` field naming which recurring house view a diagram page is drawn from.
+
+### Artwork source
+The `toc.csv` field recording where a diagram page's illustration comes from.
+
+### Front matter / back matter
+Pages outside the lettered parts. Governed by `FRONT_BACK_MATTER.md`.
+
 ### Form
 The homeowner-fillable **left / even** page that records the reader's own house.
 

@@ -1,3 +1,15 @@
+> **SUPERSEDED — HISTORICAL REFERENCE ONLY**
+>
+> This document records the v3 concept and the reasoning behind it. It is **not** current authority.
+>
+> Obsolete in this file: the 5 × 8 trim size, the subject-prefix form identifiers (`E-1`, `ID-3`, `PR-4`, `NX-1`), the ~142-page section-by-section page plan, the page-count and pricing figures, and the front/back matter listing.
+>
+> For current authority see `Instructions_for_AI_Tools.md`, `toc.csv`, and the canonical module that owns the subject.
+>
+> Retained because the strategic reasoning — the moat, the contractor protocol, the dual purpose of every system page, and the honest risks — is still the clearest statement of why the book takes this form.
+
+---
+
 # The Homeowner's Field Manual — Concept v3
 
 **Working Positioning**
