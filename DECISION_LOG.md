@@ -6,6 +6,14 @@ Keep entries short. Detailed rules belong in their canonical files.
 
 ---
 
+## 2026-09-02 — Assigned page codes are permanent
+
+**Decision:** Once a page code is assigned in `toc.csv`, it is permanent across tiers and editions. It is never renumbered, repurposed, or reused. A retired code remains reserved.
+
+**Reason:** Page codes are the stable cross-reference language for homeowners, contractors, artwork, and future editions.
+
+---
+
 ## 2026-09-02 — Page codes are part letter + zero-padded sequence
 
 **Decision:** The page-code rule is **part letter + zero-padded sequence**, normally two digits, continuing to three where a part runs past 99.
@@ -20,7 +28,7 @@ Keep entries short. Detailed rules belong in their canonical files.
 
 **Decision:** The book's lettered top-level divisions are **parts**. *Section* is retired for this concept.
 
-**Reason:** `toc.csv` uses Part / Part Name, while `PAGE_CODES.md` and `Instructions_for_AI_Tools.md` said *section*. One term, matching the canonical database.
+**Reason:** `toc.csv` uses Part / Part Name. One term, matching the canonical database, avoids conflicting structural language.
 
 ---
 
@@ -34,19 +42,19 @@ Keep entries short. Detailed rules belong in their canonical files.
 
 ## 2026-09-02 — Front and back matter get a canonical owner
 
-**Decision:** New module `FRONT_BACK_MATTER.md` owns all pages outside the lettered parts.
+**Decision:** `FRONT_BACK_MATTER.md` owns all pages outside the lettered parts.
 
-**Reason:** Title, copyright, limitations, contents, how-to-use, the contractor explainer, glossary, index, and closing pages were owned by no file. `toc.csv` contains no rows for them.
+**Reason:** Title, copyright, limitations, contents, how-to-use, the contractor explainer, index, and closing pages need one explicit owner because `toc.csv` currently contains no front/back-matter rows.
 
 ---
 
 ## 2026-09-02 — TOC gains a Role column; opener codes normalized
 
-**Decision:** `toc.csv` gains a **Role** column, positioned after `Part Name`, with values `Spread` and `Part opener`. Opener rows now carry clean codes `n00` and `n01` in the existing two code columns.
+**Decision:** `toc.csv` gains a **Role** column, positioned after `Part Name`, with values `Spread` and `Part opener`. Opener rows carry clean codes `n00` and `n01` in the existing two code columns.
 
 **Supersedes:** the free-text value `00 (opener spread, 01 blank)` previously stored in the `Form Page (even, left)` column on ten rows.
 
-**Reason:** Free text in a code column defeated machine parsing of every page code. All existing column names are unchanged, so nothing downstream that reads columns by name is affected.
+**Reason:** Free text in a code column defeated machine parsing of every page code.
 
 ---
 
@@ -68,9 +76,9 @@ Keep entries short. Detailed rules belong in their canonical files.
 
 ## 2026-09-02 — RENAME.md marked superseded in place
 
-**Decision:** `RENAME.md` keeps its filename and location but now opens with a banner listing exactly which of its specifications are obsolete.
+**Decision:** `RENAME.md` keeps its filename and location but opens with a banner listing which specifications are obsolete.
 
-**Reason:** The file still carried the 5 × 8 trim, the subject-prefix form IDs, and a page plan that conflicts with `toc.csv`, with nothing in the file itself saying so. Its strategic reasoning is still worth keeping.
+**Reason:** Its strategic reasoning remains useful, but its old trim size, form IDs, page plan, page counts, and commercial figures are not current authority.
 
 ---
 
@@ -92,7 +100,7 @@ Keep entries short. Detailed rules belong in their canonical files.
 
 ## 2026-09-02 — TOC owns page-level definitions
 
-**Decision:** `toc.csv` is the sole canonical source for page codes, page subjects, tiers, spread goals, diagram content, form fields, base views, and artwork sources.
+**Decision:** `toc.csv` is the sole canonical source for page codes, page subjects, tiers, spread goals, diagram content, page-specific form fields, base views, and artwork sources.
 
 **Supersedes:** duplicated page plans in older concept documents.
 
@@ -112,7 +120,7 @@ Keep entries short. Detailed rules belong in their canonical files.
 
 ## 2026-09-02 — Prompt assets belong under `prompts/`
 
-**Decision:** Reusable prompts for external generation tools are stored in a `prompts/` subdirectory.
+**Decision:** Reusable prompts for external generation tools are stored in the lowercase `prompts/` subdirectory.
 
 **Example:** `prompts/bw-diagram-prompt.md`
 

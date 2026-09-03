@@ -46,7 +46,7 @@ A paired left and right page addressing one subject.
 The single outcome the reader should achieve after using the spread. Canonical wording lives in `toc.csv`.
 
 ### Page Code
-The permanent section-letter + sequence identifier such as `E04` or `F18`.
+The permanent **part-letter + zero-padded sequence** identifier such as `E04`, `F18`, or `C100`.
 
 ### Tier
 One of the content-depth classifications: Basic, Advanced, or Professional.

@@ -27,11 +27,15 @@ Higher tiers should build on lower tiers rather than force the core book to be r
 
 The preferred long-term model is **append rather than rewrite** wherever feasible.
 
-## Page-code stability
+## Page-code permanence
 
-Preserve existing page codes across editions whenever possible.
+Assigned page codes are permanent across tiers and editions.
 
-Do not renumber Basic content merely because Advanced or Professional content is added.
+- Existing Basic codes are never renumbered because Advanced or Professional content is added.
+- New content receives new unused codes.
+- A retired code remains reserved and is not reused for another concept.
+
+See `PAGE_CODES.md` for the canonical coding rules.
 
 ## Important limitation
 

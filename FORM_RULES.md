@@ -67,11 +67,18 @@ Prefer:
 - clearly separated location fields;
 - generous notes space only where variable conditions genuinely require it.
 
-## Dating and currency
+## Global form chrome
 
-Every form carries a date field recording when it was last updated.
+Every normal form carries recurring book-wide elements that do not need to be repeated in every `toc.csv` row.
 
-A form without a date cannot be trusted years later, because the reader cannot tell whether it describes the current house or a previous condition.
+These include:
+
+- the permanent page code;
+- a small **Last updated** date field.
+
+The `Last updated` field records when the form was most recently reviewed or changed. A form without a currency date becomes harder to trust years later because the reader cannot tell whether it still describes the current house.
+
+These global elements are defined here. The `Form Page Fields` column of `toc.csv` contains only the **page-specific subject fields**.
 
 ## Keeping a form current
 
@@ -80,8 +87,8 @@ Systems get replaced, and a form that was accurate on the day it was filled in w
 The book handles this by treating superseded entries as history rather than error:
 
 - The reader strikes through the outdated entry rather than erasing it, and dates the strike.
-- The replacement is recorded in the space provided, or on a fresh copy of the form.
-- Where a form has room for only one generation of a system, it should provide a short replacement history line so the sequence survives.
+- The replacement is recorded in the space provided or using the continuation/replacement method ultimately defined in `FRONT_BACK_MATTER.md`.
+- Where a form has room for only one generation of a system, it should provide a short replacement history line when the subject warrants one.
 
 The design consequence: **a form should be legible after it has been corrected.** Do not design layouts so tight that a struck-through line destroys the page.
 
@@ -115,6 +122,8 @@ The page code should remain visible in that context.
 
 ## Source of truth
 
-Exact fields for each form belong only in the `Form Page Fields` column of `toc.csv`.
+Exact **page-specific** fields for each form belong only in the `Form Page Fields` column of `toc.csv`.
+
+Global form chrome is defined in this file and is not duplicated in every TOC row.
 
 Do not duplicate page-specific field lists here.

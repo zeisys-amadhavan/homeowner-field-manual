@@ -41,7 +41,7 @@ Some subjects may require:
 
 - additional guide pages;
 - additional forms;
-- section opener treatment;
+- part opener treatment;
 - composite/reference pages.
 
 Any exception must preserve the overall page-parity system so later forms still land on even/left pages.
@@ -52,7 +52,11 @@ Each part opens with a spread coded `n00` / `n01`, where `n00` is the even / lef
 
 Opener rows are identified by `Part opener` in the `Role` column of `toc.csv`. All other rows are `Spread`.
 
-The opener is the only permitted exception to the form-left rule, because it carries no form.
+The opener is the only permitted exception to the normal form-left / guide-right pairing.
+
+An opener row may contain text in the `Form Page Fields` column. On a `Part opener` row, that column does **not** define a normal form page. It defines a small reader interaction embedded on `n00` — for example a checklist, mark-up task, or sketch prompt that works with the opener composite.
+
+`n01` remains intentionally blank.
 
 Do not independently invent opener page numbers or reorder pages outside `toc.csv`.
 
@@ -66,4 +70,4 @@ When one spread depends on another, use permanent page codes rather than physica
 
 ## Source of truth
 
-Specific form page, diagram page, page code, spread goal, and content assignment belong exclusively in `toc.csv`.
+Specific form page, diagram page, page code, spread goal, content assignment, and opener interaction belong exclusively in `toc.csv`.
