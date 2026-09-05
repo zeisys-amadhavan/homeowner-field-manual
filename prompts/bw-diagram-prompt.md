@@ -3,3 +3,19 @@ Geometry: orthographic or isometric projection, true right angles, parallel edge
 Strokes: uniform thickness throughout, sharp corners, every contour a fully closed path. No gaps, no double lines, no overlaps at joins.
 Forbidden: anti-aliasing, hatching, shading, sketching, stippling, gradients, shadows, textures, variable line weight, dashed/dotted lines, fuzzy edges, any gray pixels.
 Output must threshold cleanly at 50% in Image Trace / vectorize.ai with zero noise.
+
+Line Diagram
+
+Recreate the diagram as ultra-clean black-and-white vector-trace-ready line art. Use only uniform solid black outlines on a pure white background. All strokes must have the exact same thickness. Every object and contour must be a complete closed path with no open ends, gaps, overlaps, broken lines, fuzzy edges, gray tones, shadows, gradients, textures, or anti-aliasing. Lines must be cleanly separated and easy to isolate in Adobe Illustrator Image Trace. Do not use sketching, hatching, shading, or variable line weight. Traceability is the priority.
+
+Low Detail Drawing
+
+ULTRA-CLEAN LINE ART FOR VECTOR TRACING of the attached image: Centered, clear, and ruthlessly simplified. High-resolution, crisp black and white line art. Technical drawing style with perfectly sharp edges. Absolutely NO anti-aliasing, no gray tones, no gradients, no texture, no shadows, and no background objects. Solid, uniform black outlines with minimal, deliberate internal lines to define key features only. Pure, plain white background. The image must look identical to a clean vector graphic, ready for a single-click image trace and conversion to a precise line diagram.
+
+High Detail Drawing
+
+ULTRA-CLEAN HIGH-DETAIL LINE ART FOR VECTOR TRACING of the attached image: centered, mechanically accurate, and richly detailed. Crisp black-and-white technical drawing with perfectly sharp edges. No anti-aliasing, gray, gradients, texture, shadows, or background objects. Solid uniform black outlines with dense, deliberate internal linework showing construction, joints, fasteners, seams, grooves, fillets, edges, interfaces, and functional geometry. Add logically appropriate secondary and tertiary engineering details while preserving the original device form. Keep all lines clean, precise, non-sketchy, and vector-traceable on a pure white background. Output as an extremely high-resolution, high-pixel-density, uncompressed engineering diagram suitable for large-format print and single-click image trace.
+
+High Detail Drawing of Person
+
+ULTRA-CLEAN HIGH-DETAIL LINE ART FOR VECTOR TRACING of the attached person: centered, anatomically faithful, likeness-preserving, and richly detailed. Crisp black-and-white portrait drawing with perfectly sharp edges. No anti-aliasing, gray, gradients, texture, shadows, or background objects. Solid uniform black outlines with dense, deliberate internal linework defining facial planes, hairline, eyebrows, eyelids, irises, nose bridge, nostrils, lips, ears, jawline, cheek contours, neck, collarbones, clothing seams, folds, and upper-body structure. Add logically appropriate secondary and tertiary portrait details while preserving the subject’s exact proportions, expression, gaze, and identifying features. Keep all lines clean, precise, non-sketchy, and vector-traceable on a pure white background. No beautification, caricature, smoothing, or stylization. Output as an extremely high-resolution, high-pixel-density, uncompressed portrait diagram suitable for large-format print and single-click image trace. Preserve exact likeness; do not idealize, age-shift, stylize, or alter ethnicity, facial shape, or expression. Render hair as clean grouped masses and major strand flows, not thousands of fine stray hairs.
